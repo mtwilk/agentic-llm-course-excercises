@@ -1,0 +1,60 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating a routine pre-opening station check @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Good morning, Maeve. Once you’ve finished washing up, please check that your station is ready for opening."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Bernard. I’ll finish washing up and check that my station’s ready for opening."
+        ],
+        [
+          "Bernard Lowe",
+          "Thank you. Let me know if anything needs attention."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "☕️🛠️",
+      "description": "preparing the cafe and serving customers at Hobbs Cafe (checking the coffee machine and grinders) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating a routine pre-opening station check @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Good morning, Maeve. Once you’ve finished washing up, please check that your station is ready for opening."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Bernard. I’ll finish washing up and check that my station’s ready for opening."
+        ],
+        [
+          "Bernard Lowe",
+          "Thank you. Let me know if anything needs attention."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:05:50"
+  }
+}

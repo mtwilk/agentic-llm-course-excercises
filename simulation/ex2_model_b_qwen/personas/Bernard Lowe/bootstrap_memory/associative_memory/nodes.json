@@ -1,0 +1,379 @@
+{
+  "node_1": {
+    "node_count": 1,
+    "type_count": 0,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 00:00:00",
+    "expiration": "2023-03-15 00:00:00",
+    "subject": "Bernard Lowe",
+    "predicate": "plan",
+    "object": "Monday February 13",
+    "description": "This is Bernard Lowe's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe at 7:00 am, open Hobbs Cafe at 8:00 am, manage Hobbs Cafe from 8:00 am to 4:00 pm, close Hobbs Cafe at 4:00 pm, return home at 4:00 pm, have dinner at 8:00 pm, go to bed at 11:00 pm.",
+    "original_description": "This is Bernard Lowe's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe at 7:00 am, open Hobbs Cafe at 8:00 am, manage Hobbs Cafe from 8:00 am to 4:00 pm, close Hobbs Cafe at 4:00 pm, return home at 4:00 pm, have dinner at 8:00 pm, go to bed at 11:00 pm.",
+    "embedding_key": "This is Bernard Lowe's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe at 7:00 am, open Hobbs Cafe at 8:00 am, manage Hobbs Cafe from 8:00 am to 4:00 pm, close Hobbs Cafe at 4:00 pm, return home at 4:00 pm, have dinner at 8:00 pm, go to bed at 11:00 pm.",
+    "poignancy": 3,
+    "valence": 2,
+    "keywords": [
+      "plan"
+    ],
+    "filling": null
+  },
+  "node_10": {
+    "node_count": 10,
+    "type_count": 8,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:47:00",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:refrigerator",
+    "predicate": "opened",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:refrigerator is opened",
+    "original_description": "the Ville:Hobbs Cafe:cafe:refrigerator is opened",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:refrigerator is opened",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_11": {
+    "node_count": 11,
+    "type_count": 9,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:55:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "empty",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is empty",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is empty",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is empty",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_12": {
+    "node_count": 12,
+    "type_count": 10,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "walking",
+    "object": "None",
+    "description": "Bernard Lowe is walking to Hobbs Cafe (waking up)",
+    "original_description": "Bernard Lowe is walking to Hobbs Cafe (waking up)",
+    "embedding_key": "Bernard Lowe is walking to Hobbs Cafe (waking up)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_13": {
+    "node_count": 13,
+    "type_count": 11,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:01:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "approaching",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is approaching",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is approaching",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is approaching",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_14": {
+    "node_count": 14,
+    "type_count": 12,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:07:10",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:main room:shelf",
+    "predicate": "unchanged",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:main room:shelf is unchanged",
+    "original_description": "the Ville:Bernard Lowe's apartment:main room:shelf is unchanged",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:main room:shelf is unchanged",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "shelf",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_15": {
+    "node_count": 15,
+    "type_count": 13,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:10:10",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:main room:closet",
+    "predicate": "unoccupied",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:main room:closet is unoccupied",
+    "original_description": "the Ville:Bernard Lowe's apartment:main room:closet is unoccupied",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:main room:closet is unoccupied",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "closet",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_16": {
+    "node_count": 16,
+    "type_count": 14,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:15:10",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:main room:closet",
+    "predicate": "accessing",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:main room:closet is being accessed",
+    "original_description": "the Ville:Bernard Lowe's apartment:main room:closet is being accessed",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:main room:closet is being accessed",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "closet",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_17": {
+    "node_count": 17,
+    "type_count": 15,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:21:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "unoccupied",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is unoccupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is unoccupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is unoccupied",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_18": {
+    "node_count": 18,
+    "type_count": 16,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:25:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:refrigerator",
+    "predicate": "unoccupied",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:refrigerator is unoccupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:refrigerator is unoccupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:refrigerator is unoccupied",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_2": {
+    "node_count": 2,
+    "type_count": 0,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "sleeping",
+    "object": "None",
+    "description": "Bernard Lowe is sleeping",
+    "original_description": "Bernard Lowe is sleeping",
+    "embedding_key": "Bernard Lowe is sleeping",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_3": {
+    "node_count": 3,
+    "type_count": 1,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:main room:bed",
+    "predicate": "occupied",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:main room:bed is occupied",
+    "original_description": "the Ville:Bernard Lowe's apartment:main room:bed is occupied",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:main room:bed is occupied",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "bed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_4": {
+    "node_count": 4,
+    "type_count": 2,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Bernard Lowe is waking up and completing the morning routine (waking up)",
+    "original_description": "Bernard Lowe is waking up and completing the morning routine (waking up)",
+    "embedding_key": "Bernard Lowe is waking up and completing the morning routine (waking up)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_5": {
+    "node_count": 5,
+    "type_count": 3,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:01:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "unused",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is unused",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_6": {
+    "node_count": 6,
+    "type_count": 4,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:06:20",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:bathroom:bathroom sink",
+    "predicate": "unused",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:bathroom:bathroom sink is unused",
+    "original_description": "the Ville:Bernard Lowe's apartment:bathroom:bathroom sink is unused",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:bathroom:bathroom sink is unused",
+    "poignancy": 0,
+    "valence": -2,
+    "keywords": [
+      "bathroom sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_7": {
+    "node_count": 7,
+    "type_count": 5,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:15:10",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:bathroom:bathroom sink",
+    "predicate": "lit",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:bathroom:bathroom sink is lit",
+    "original_description": "the Ville:Bernard Lowe's apartment:bathroom:bathroom sink is lit",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:bathroom:bathroom sink is lit",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "bathroom sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_8": {
+    "node_count": 8,
+    "type_count": 6,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:20:10",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:bathroom:bathroom sink",
+    "predicate": "in use",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:bathroom:bathroom sink is in use",
+    "original_description": "the Ville:Bernard Lowe's apartment:bathroom:bathroom sink is in use",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:bathroom:bathroom sink is in use",
+    "poignancy": 0,
+    "valence": -1,
+    "keywords": [
+      "bathroom sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_9": {
+    "node_count": 9,
+    "type_count": 7,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:45:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "grabbing",
+    "object": "coffee",
+    "description": "Bernard Lowe is waking up and completing the morning routine (grabbing a coffee)",
+    "original_description": "Bernard Lowe is waking up and completing the morning routine (grabbing a coffee)",
+    "embedding_key": "Bernard Lowe is waking up and completing the morning routine (grabbing a coffee)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "coffee"
+    ],
+    "filling": null
+  }
+}

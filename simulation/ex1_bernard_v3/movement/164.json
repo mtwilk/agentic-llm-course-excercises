@@ -1,0 +1,60 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        82,
+        16
+      ],
+      "pronunciato": "🪥☕",
+      "description": "getting up, washing, dressing, and walking to Hobbs Cafe (brushing teeth) @ the Ville:Bernard Lowe's apartment:bathroom:bathroom sink",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        120,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "making casual breakfast conversation and agreeing to head to Hobbs together @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Morning, Dolores. Breakfast treating you all right? I’m nearly finished—shall we head to Hobbs together once you’re ready?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Morning! Breakfast’s good, thanks. I’m just about finished—give me a moment, and we can head to Hobbs together."
+        ],
+        [
+          "Maeve Millay",
+          "No rush—I’m ready when you are. Let’s head to Hobbs once you’ve finished."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        120,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "making casual breakfast conversation and agreeing to head to Hobbs together @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Morning, Dolores. Breakfast treating you all right? I’m nearly finished—shall we head to Hobbs together once you’re ready?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Morning! Breakfast’s good, thanks. I’m just about finished—give me a moment, and we can head to Hobbs together."
+        ],
+        [
+          "Maeve Millay",
+          "No rush—I’m ready when you are. Let’s head to Hobbs once you’ve finished."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:26:20"
+  }
+}

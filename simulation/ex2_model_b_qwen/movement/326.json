@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "⏰",
+      "description": "waking up and completing the morning routine (reviewing the day's schedule) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        123,
+        54
+      ],
+      "pronunciato": "🎒",
+      "description": "waking up and completing the morning routine (packing bag) @ the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:closet",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        131,
+        49
+      ],
+      "pronunciato": "⏰🧼",
+      "description": "waking up and completing the morning routine (getting ready to leave) @ the Ville:Dorm for Oak Hill College:Meave Millay's room:closet",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:53:20"
+  }
+}

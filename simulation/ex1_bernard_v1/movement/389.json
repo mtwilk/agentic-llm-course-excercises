@@ -1,0 +1,76 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        25
+      ],
+      "pronunciato": "🚿🚶",
+      "description": "getting up, washing, dressing, and walking to Hobbs Cafe (walking to Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        75,
+        22
+      ],
+      "pronunciato": "💬",
+      "description": "preparing to open the café after checking the seating and espresso machine @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Morning, Dolores. Glad you made it in. I’m just finishing up the counter—how was the walk over?"
+        ],
+        [
+          "Dolores Abernathy",
+          "It was nice, a little brisk. I’m glad I made it in—everything’s ready on my end. I can help finish the setup."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores. Could you check the seating and make sure the espresso machine’s ready? I’ll finish wiping down here, then we should be set."
+        ],
+        [
+          "Dolores Abernathy",
+          "I checked the seating—it’s ready. The espresso machine heated up and pulled properly through a full cycle, too. We’ll be set once you finish wiping down."
+        ],
+        [
+          "Maeve Millay",
+          "Perfect, thanks. The counter’s clean, too—let’s open up."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        75,
+        23
+      ],
+      "pronunciato": "💬",
+      "description": "preparing to open the café after checking the seating and espresso machine @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Morning, Dolores. Glad you made it in. I’m just finishing up the counter—how was the walk over?"
+        ],
+        [
+          "Dolores Abernathy",
+          "It was nice, a little brisk. I’m glad I made it in—everything’s ready on my end. I can help finish the setup."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores. Could you check the seating and make sure the espresso machine’s ready? I’ll finish wiping down here, then we should be set."
+        ],
+        [
+          "Dolores Abernathy",
+          "I checked the seating—it’s ready. The espresso machine heated up and pulled properly through a full cycle, too. We’ll be set once you finish wiping down."
+        ],
+        [
+          "Maeve Millay",
+          "Perfect, thanks. The counter’s clean, too—let’s open up."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:03:50"
+  }
+}

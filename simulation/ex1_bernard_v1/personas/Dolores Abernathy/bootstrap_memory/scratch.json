@@ -1,0 +1,404 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 08:30:50",
+  "curr_tile": [
+    79,
+    19
+  ],
+  "daily_plan_req": "Dolores Abernathy wakes up at 7am. She walks to Hobbs Cafe by 8am. She works at Hobbs Cafe from 8am to 4pm. After work she goes straight back to her room at the dorm and reads. She has dinner at the dorm at 6pm. She spends the rest of the evening reading and working on the computer in her room. She goes to bed at 11pm.",
+  "name": "Dolores Abernathy",
+  "first_name": "Dolores",
+  "last_name": "Abernathy",
+  "age": 24,
+  "innate": "conflict-averse, earnest",
+  "learned": "Dolores Abernathy is a barista at Hobbs Cafe. She tries hard but tends to get flustered when put on the spot and struggles to respond well under scrutiny. Her boss is Bernard Lowe, who manages the cafe. Dolores and Maeve are colleagues who work together to keep the cafe running. She keeps interactions at work task-oriented. After work Dolores goes straight to her room and reads. She loves to read.",
+  "currently": "Dolores is starting her day and heading to work at Hobbs Cafe.",
+  "lifestyle": "Dolores Abernathy wakes up around 7am, has breakfast and walks to Hobbs Cafe where she works as a barista from 8am to 4pm. After work she reads in her room. She has dinner around 6pm. She reads in her room until she goes to bed at 11pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room",
+  "concept_forget": 0,
+  "daily_reflection_time": 0,
+  "daily_reflection_size": 0,
+  "overlap_reflect_th": 0,
+  "kw_strg_event_reflect_th": 0,
+  "kw_strg_thought_reflect_th": 0,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "valence_w": 0,
+  "asymetric_encoding": false,
+  "negativity_bias": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 75,
+  "importance_trigger_curr": 7,
+  "importance_ele_n": 68,
+  "thought_count": 0,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00am",
+    "have breakfast and walk to Hobbs Cafe from 7:00 am to 8:00 am",
+    "work at Hobbs Cafe from 8:00 am to 4:00 pm",
+    "walk back to the dorm and return to her room from 4:00 pm to 5:00 pm",
+    "read in her room from 5:00 pm to 6:00 pm",
+    "have dinner at the dorm at 6:00 pm",
+    "read in her room from 7:00 pm to 9:00 pm",
+    "work on the computer in her room from 9:00 pm to 10:00 pm",
+    "read in her room from 10:00 pm to 11:00 pm",
+    "go to bed at 11:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up, getting ready, having breakfast, and walking to Hobbs Cafe (waking up)",
+      5
+    ],
+    [
+      "waking up, getting ready, having breakfast, and walking to Hobbs Cafe (using the bathroom)",
+      5
+    ],
+    [
+      "waking up, getting ready, having breakfast, and walking to Hobbs Cafe (washing face and brushing teeth)",
+      5
+    ],
+    [
+      "waking up, getting ready, having breakfast, and walking to Hobbs Cafe (getting dressed)",
+      5
+    ],
+    [
+      "having breakfast together after preparing toast and coffee",
+      1
+    ],
+    [
+      "waking up, getting ready, having breakfast, and walking to Hobbs Cafe (preparing breakfast)",
+      9
+    ],
+    [
+      "waking up, getting ready, having breakfast, and walking to Hobbs Cafe (eating breakfast)",
+      10
+    ],
+    [
+      "waking up, getting ready, having breakfast, and walking to Hobbs Cafe (cleaning up breakfast dishes)",
+      5
+    ],
+    [
+      "waking up, getting ready, having breakfast, and walking to Hobbs Cafe (gathering work items)",
+      5
+    ],
+    [
+      "waking up, getting ready, having breakfast, and walking to Hobbs Cafe (walking to Hobbs Cafe)",
+      8
+    ],
+    [
+      "checking the café’s opening readiness by testing the espresso machine and confirming the seating",
+      3
+    ],
+    [
+      "waking up, getting ready, having breakfast, and walking to Hobbs Cafe (walking to Hobbs Cafe)",
+      1
+    ],
+    [
+      "preparing to open the café after checking the seating and espresso machine",
+      1
+    ],
+    [
+      "waking up, getting ready, having breakfast, and walking to Hobbs Cafe (walking to Hobbs Cafe)",
+      1
+    ],
+    [
+      "working as a barista at Hobbs Cafe and preparing the cafe for customers (unlocking the cafe door and turning on the lights)",
+      5
+    ],
+    [
+      "working as a barista at Hobbs Cafe and preparing the cafe for customers (checking the cafe for overnight issues)",
+      5
+    ],
+    [
+      "working as a barista at Hobbs Cafe and preparing the cafe for customers (sanitizing the counters and work surfaces)",
+      5
+    ],
+    [
+      "working as a barista at Hobbs Cafe and preparing the cafe for customers (turning on the espresso machine)",
+      3
+    ],
+    [
+      "making coffee together after checking the espresso machine’s pull",
+      1
+    ],
+    [
+      "working as a barista at Hobbs Cafe and preparing the cafe for customers (turning on the espresso machine)",
+      1
+    ],
+    [
+      "working as a barista at Hobbs Cafe and preparing the cafe for customers (checking the grinder and adjusting its settings)",
+      5
+    ],
+    [
+      "overseeing the morning café preparations and final checks before opening",
+      2
+    ],
+    [
+      "working as a barista at Hobbs Cafe and preparing the cafe for customers (brewing the first batch of coffee)",
+      5
+    ],
+    [
+      "working as a barista at Hobbs Cafe and preparing the cafe for customers (restocking cups, lids, and sleeves)",
+      5
+    ],
+    [
+      "working as a barista at Hobbs Cafe and preparing the cafe for customers (arranging pastries in the display case)",
+      5
+    ],
+    [
+      "working as a barista at Hobbs Cafe and preparing the cafe for customers (setting up the register and checking the till)",
+      5
+    ],
+    [
+      "working as a barista at Hobbs Cafe and preparing the cafe for customers (refilling napkins, stirrers, and condiments)",
+      4
+    ],
+    [
+      "working as a barista at Hobbs Cafe and preparing the cafe for customers (washing and putting away preparation tools)",
+      4
+    ],
+    [
+      "working as a barista at Hobbs Cafe and preparing the cafe for customers (wiping down the work area and checking opening readiness)",
+      4
+    ],
+    [
+      "making coffee and serving customers at the counter (checking the espresso machine and coffee supplies)",
+      5
+    ],
+    [
+      "making coffee and serving customers at the counter (restocking cups, lids, and napkins)",
+      5
+    ],
+    [
+      "making coffee and serving customers at the counter (taking customer orders at the counter)",
+      5
+    ],
+    [
+      "making coffee and serving customers at the counter (grinding coffee beans for ordered drinks)",
+      5
+    ],
+    [
+      "making coffee and serving customers at the counter (pulling espresso shots)",
+      5
+    ],
+    [
+      "making coffee and serving customers at the counter (steaming milk for coffee drinks)",
+      5
+    ],
+    [
+      "making coffee and serving customers at the counter (assembling and finishing drink orders)",
+      5
+    ],
+    [
+      "making coffee and serving customers at the counter (handing completed drinks to customers)",
+      5
+    ],
+    [
+      "making coffee and serving customers at the counter (taking additional orders and processing payments)",
+      5
+    ],
+    [
+      "making coffee and serving customers at the counter (preparing more coffee and espresso drinks)",
+      5
+    ],
+    [
+      "making coffee and serving customers at the counter (wiping down the counter and clearing used items)",
+      5
+    ],
+    [
+      "making coffee and serving customers at the counter (rinsing equipment and organizing the coffee station)",
+      2
+    ],
+    [
+      "preparing drinks and keeping the cafe counter tidy",
+      60
+    ],
+    [
+      "taking orders and serving customers alongside Maeve",
+      60
+    ],
+    [
+      "making coffee and helping customers at Hobbs Cafe",
+      60
+    ],
+    [
+      "preparing drinks and keeping the cafe running",
+      60
+    ],
+    [
+      "serving customers and working as a barista",
+      60
+    ],
+    [
+      "cleaning the counter and finishing her shift at Hobbs Cafe",
+      60
+    ],
+    [
+      "walking back to the dorm and returning to her room",
+      60
+    ],
+    [
+      "reading in her room",
+      60
+    ],
+    [
+      "having dinner at the dorm",
+      60
+    ],
+    [
+      "reading in her room",
+      60
+    ],
+    [
+      "continuing to read in her room",
+      60
+    ],
+    [
+      "working on the computer in her room",
+      60
+    ],
+    [
+      "reading in her room",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up, getting ready, having breakfast, and walking to Hobbs Cafe",
+      60
+    ],
+    [
+      "working as a barista at Hobbs Cafe and preparing the cafe for customers",
+      60
+    ],
+    [
+      "making coffee and serving customers at the counter",
+      60
+    ],
+    [
+      "preparing drinks and keeping the cafe counter tidy",
+      60
+    ],
+    [
+      "taking orders and serving customers alongside Maeve",
+      60
+    ],
+    [
+      "making coffee and helping customers at Hobbs Cafe",
+      60
+    ],
+    [
+      "preparing drinks and keeping the cafe running",
+      60
+    ],
+    [
+      "serving customers and working as a barista",
+      60
+    ],
+    [
+      "cleaning the counter and finishing her shift at Hobbs Cafe",
+      60
+    ],
+    [
+      "walking back to the dorm and returning to her room",
+      60
+    ],
+    [
+      "reading in her room",
+      60
+    ],
+    [
+      "having dinner at the dorm",
+      60
+    ],
+    [
+      "reading in her room",
+      60
+    ],
+    [
+      "continuing to read in her room",
+      60
+    ],
+    [
+      "working on the computer in her room",
+      60
+    ],
+    [
+      "reading in her room",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "\u003cpersona\u003e Bernard Lowe",
+  "act_start_time": "February 13, 2023, 08:29:00",
+  "act_duration": 2,
+  "act_description": "overseeing the morning café preparations and final checks before opening",
+  "act_pronunciatio": "💬",
+  "act_event": [
+    "Dolores Abernathy",
+    "chat with",
+    "Bernard Lowe"
+  ],
+  "act_obj_description": "",
+  "act_obj_pronunciatio": "",
+  "act_obj_event": [
+    "",
+    "",
+    ""
+  ],
+  "chatting_with": "Bernard Lowe",
+  "chat": [
+    [
+      "Bernard Lowe",
+      "The first batch is underway, then? Keep an eye on the brew and tell me immediately if the espresso machine or grinder gives you any trouble. We open at eight; I expect everything ready before then."
+    ],
+    [
+      "Dolores Abernathy",
+      "Yes, Bernard. The first batch is underway, and I’ll keep an eye on the brew and let you know right away if the machine or grinder gives me any trouble."
+    ],
+    [
+      "Bernard Lowe",
+      "Good. Once the brew is ready, check the seating and counter supplies one last time. I want everything in order before we unlock the doors."
+    ],
+    [
+      "Dolores Abernathy",
+      "Yes, Bernard. I’ll check the seating and counter supplies as soon as the brew is ready, and make sure everything’s in order before the doors are unlocked."
+    ],
+    [
+      "Bernard Lowe",
+      "All right. I’ll finish stocking the stations. Let me know as soon as the brew is ready and you’ve completed the final checks."
+    ],
+    [
+      "Dolores Abernathy",
+      "Understood, Bernard. I’ll keep watch on the brew, then check the seating and supplies and let you know as soon as everything’s ready."
+    ],
+    [
+      "Bernard Lowe",
+      "Good. I’ll be nearby finishing the stations. Come find me as soon as the brew is ready and you’ve completed the checks."
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Bernard Lowe": 109,
+    "Maeve Millay": 68
+  },
+  "chatting_end_time": "February 13, 2023, 08:32:00",
+  "act_path_set": true,
+  "planned_path": null
+}

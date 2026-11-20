@@ -1,0 +1,37 @@
+{
+  "kw_strength_thought": {
+    "bernard lowe": 6,
+    "checking": 2,
+    "counter for crumbs": 1,
+    "learned": 2,
+    "machines": 1,
+    "maeve tested the espresso machine’s pressure and grinder settings and found both within spec": 1,
+    "plan": 1,
+    "remember": 1,
+    "remembering": 1,
+    "that maeve and dolores were on their way to the café to prepare for opening": 1,
+    "that the espresso machine pressure and grinder settings are within spec": 1,
+    "to make sure the counter is free of crumbs and the machines are ready before opening": 1
+  },
+  "kw_strength_event": {
+    "barista at hobbs cafe": 1,
+    "bathroom sink": 2,
+    "bed": 1,
+    "behind the cafe counter": 5,
+    "bernard lowe": 12,
+    "cafe customer seating": 6,
+    "counter and barista tools": 1,
+    "customers": 3,
+    "dolores abernathy": 10,
+    "espresso machine and grinder": 2,
+    "hands": 1,
+    "hobbs cafe": 10,
+    "kitchen sink": 1,
+    "maeve millay": 14,
+    "none": 21,
+    "refrigerator": 1,
+    "shower": 3,
+    "the cafe and customers": 1,
+    "toilet": 1
+  }
+}

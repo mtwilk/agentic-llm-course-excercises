@@ -1,0 +1,60 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "🚶☕",
+      "description": "walking to Hobbs Cafe and opening it for the day (walking to Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating final café checks before opening @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Morning, Maeve. The pastry display is set. Are the cups and lids stocked? I’ll finish checking the grinders."
+        ],
+        [
+          "Maeve Millay",
+          "Morning. Yes, the cups and lids are stocked. I’m just finishing the station check—let me know if the grinders need anything."
+        ],
+        [
+          "Dolores Abernathy",
+          "The grinders look good too. Thanks, Maeve—everything’s set for opening."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating final café checks before opening @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Morning, Maeve. The pastry display is set. Are the cups and lids stocked? I’ll finish checking the grinders."
+        ],
+        [
+          "Maeve Millay",
+          "Morning. Yes, the cups and lids are stocked. I’m just finishing the station check—let me know if the grinders need anything."
+        ],
+        [
+          "Dolores Abernathy",
+          "The grinders look good too. Thanks, Maeve—everything’s set for opening."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:17:50"
+  }
+}

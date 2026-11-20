@@ -383,6 +383,13 @@ func (p *Persona) SumPlanDir(plans []llm.Plan) (out int) {
 }
 
 func (p *Persona) createReact(summary string, duration int, address memory.Path, spo memory.SPO, actStartTime time.Time, pronunciato string, chattingWith string, chat []memory.Utterance, chattingWithBuffer map[string]int, chatEndTime time.Time) {
+	// A 0-minute reaction (very short chat, or a wait that is already over) can never pass the
+	// reaction-schedule validation, which requires the first activity to last exactly `duration`
+	// minutes AND every activity to last at least 1 minute, so the step retried forever.
+	if duration < 1 {
+		duration = 1
+	}
+
 	minSum := 0
 	for i := 0; i < p.state.GetOriginalDailyPlanIndex(); i += 1 {
 		minSum += p.state.OriginalDailySchedule[i].Duration

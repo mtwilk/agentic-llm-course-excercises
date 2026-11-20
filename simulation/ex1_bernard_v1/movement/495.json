@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciato": "☕️🧹",
+      "description": "opening Hobbs Cafe and overseeing the baristas (inspecting the dining area for cleanliness and safety) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "☕️",
+      "description": "working as a barista at Hobbs Cafe and preparing the cafe for customers (turning on the espresso machine) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        81,
+        19
+      ],
+      "pronunciato": "☕️🙋",
+      "description": "serving customers and preparing drinks at Hobbs Cafe (greeting customers and taking drink orders) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:21:30"
+  }
+}

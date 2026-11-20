@@ -1,0 +1,18 @@
+{
+  "kw_strength_thought": {
+    "plan": 1
+  },
+  "kw_strength_event": {
+    "bathroom sink": 3,
+    "bed": 1,
+    "behind the cafe counter": 1,
+    "bernard lowe": 4,
+    "cafe customer seating": 1,
+    "closet": 2,
+    "coffee": 1,
+    "kitchen sink": 2,
+    "none": 16,
+    "refrigerator": 2,
+    "shelf": 1
+  }
+}

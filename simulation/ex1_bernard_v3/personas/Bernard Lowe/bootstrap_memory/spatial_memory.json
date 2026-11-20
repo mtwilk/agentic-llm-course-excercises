@@ -1,0 +1,102 @@
+{
+  "the Ville": {
+    "Bernard Lowe's apartment": {
+      "bathroom": [
+        "shower",
+        "bathroom sink",
+        "toilet"
+      ],
+      "main room": [
+        "refrigerator",
+        "closet",
+        "shelf",
+        "bed",
+        "desk"
+      ]
+    },
+    "Dorm for Oak Hill College": {
+      "common room": [
+        "common room sofa",
+        "pool table",
+        "common room table"
+      ],
+      "garden": [
+        "dorm garden"
+      ]
+    },
+    "Giorgio Rossi's apartment": {
+      "bathroom": [
+        "shower",
+        "bathroom sink",
+        "toilet"
+      ],
+      "main room": [
+        "bed",
+        "desk",
+        "blackboard",
+        "cooking area",
+        "kitchen sink",
+        "closet",
+        "refrigerator"
+      ]
+    },
+    "Harvey Oak Supply Store": {
+      "supply store": [
+        "supply store product shelf",
+        "behind the supply store counter",
+        "supply store counter"
+      ]
+    },
+    "Hobbs Cafe": {
+      "cafe": [
+        "refrigerator",
+        "cafe customer seating",
+        "cooking area",
+        "kitchen sink",
+        "behind the cafe counter",
+        "piano"
+      ]
+    },
+    "Johnson Park": {
+      "park": [
+        "park garden"
+      ]
+    },
+    "Ryan Park's apartment": {
+      "bathroom": [
+        "bathroom sink",
+        "toilet",
+        "shower"
+      ],
+      "main room": [
+        "bed",
+        "cooking area",
+        "kitchen sink",
+        "refrigerator",
+        "closet",
+        "computer desk"
+      ]
+    },
+    "The Rose and Crown Pub": {
+      "pub": [
+        "behind the bar counter",
+        "kitchen sink",
+        "cooking area",
+        "microphone",
+        "shelf",
+        "refrigerator",
+        "bar customer seating"
+      ]
+    },
+    "The Willows Market and Pharmacy": {
+      "store": [
+        "behind the pharmacy counter",
+        "pharmacy store shelf",
+        "pharmacy store counter",
+        "grocery store shelf",
+        "behind the grocery counter",
+        "grocery store counter"
+      ]
+    }
+  }
+}

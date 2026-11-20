@@ -1,0 +1,60 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        82,
+        16
+      ],
+      "pronunciato": "🌅🪥",
+      "description": "waking up and completing his morning routine (washing the face and brushing the teeth) @ the Ville:Bernard Lowe's apartment:bathroom:bathroom sink",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        126,
+        50
+      ],
+      "pronunciato": "💬",
+      "description": "finishing breakfast and getting ready to walk to Hobbs together @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Morning, Maeve. I’m just finishing breakfast before heading to Hobbs. Are you about ready to go?"
+        ],
+        [
+          "Maeve Millay",
+          "Morning! I’m just finishing up too. Give me a minute, and we can walk over together."
+        ],
+        [
+          "Dolores Abernathy",
+          "Sure, no rush. I’ll grab my things and meet you by the door."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        126,
+        50
+      ],
+      "pronunciato": "💬",
+      "description": "finishing breakfast and getting ready to walk to Hobbs together @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Morning, Maeve. I’m just finishing breakfast before heading to Hobbs. Are you about ready to go?"
+        ],
+        [
+          "Maeve Millay",
+          "Morning! I’m just finishing up too. Give me a minute, and we can walk over together."
+        ],
+        [
+          "Dolores Abernathy",
+          "Sure, no rush. I’ll grab my things and meet you by the door."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:16:30"
+  }
+}

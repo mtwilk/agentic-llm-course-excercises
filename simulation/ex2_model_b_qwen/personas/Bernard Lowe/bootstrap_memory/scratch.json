@@ -1,0 +1,350 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 08:29:50",
+  "curr_tile": [
+    73,
+    19
+  ],
+  "daily_plan_req": "Bernard Lowe opens Hobbs Cafe at 8am and works until 4pm. He manages the cafe, monitors the work of his baristas, and handles operations throughout the day. He closes the cafe at 4pm.",
+  "name": "Bernard Lowe",
+  "first_name": "Bernard",
+  "last_name": "Lowe",
+  "age": 58,
+  "innate": "impatient, condescending, critical, controlling",
+  "learned": "Bernard Lowe manages Hobbs Cafe and is a difficult boss to Dolores and Maeve. He never praises their work and interrupts them mid-sentence. When something goes wrong he blames them in front of customers, saying things like \"I have never seen anyone make a latte this badly\" or \"If you can't keep up, I'll find someone who can.\" He checks the counter every few minutes and points out every crumb and smudge.",
+  "currently": "Bernard is heading to the cafe to open up for the day.",
+  "lifestyle": "Bernard Lowe wakes up around 7am, walks to Hobbs cafe, where he works from 8am to 4pm. He comes home and eats dinner around 8pm, goes to bed around 11pm.",
+  "living_area": "the Ville:Bernard Lowe's apartment:main room",
+  "concept_forget": 0,
+  "daily_reflection_time": 0,
+  "daily_reflection_size": 0,
+  "overlap_reflect_th": 0,
+  "kw_strg_event_reflect_th": 0,
+  "kw_strg_thought_reflect_th": 0,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "valence_w": 0,
+  "asymetric_encoding": false,
+  "negativity_bias": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 75,
+  "importance_trigger_curr": 72,
+  "importance_ele_n": 17,
+  "thought_count": 0,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00am",
+    "walk to Hobbs Cafe at 7:00 am",
+    "open Hobbs Cafe at 8:00 am",
+    "manage Hobbs Cafe from 8:00 am to 4:00 pm",
+    "close Hobbs Cafe at 4:00 pm",
+    "return home at 4:00 pm",
+    "have dinner at 8:00 pm",
+    "go to bed at 11:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing the morning routine (waking up)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (checking the clock)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (getting out of bed)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (turning on the lights)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (brushing teeth)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (washing face)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (shaving)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (changing into work clothes)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (checking the weather)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (grabbing a coffee)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (reviewing the day's schedule)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (preparing to leave)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (waking up)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (brushing teeth)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (showering)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (getting dressed)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (checking the weather)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (grabbing keys)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (reviewing the day's schedule)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (leaving the house)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (walking to the cafe)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (checking the surroundings)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (arriving at the cafe)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (preparing for the day)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (unlocking the door)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (checking the security system)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (turning on the lights)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (starting the coffee machine)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (checking the milk fridge)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (restocking sugar and syrup)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (verifying inventory levels)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (cleaning the counter)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (checking the POS system)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (reviewing the day's schedule)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (notifying Dolores and Maeve)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (conducting a final walk-through)",
+      5
+    ],
+    [
+      "monitoring Dolores and Maeve as they prepare for the morning rush",
+      60
+    ],
+    [
+      "checking the counter for crumbs and smudges while berating Dolores for a slow order",
+      60
+    ],
+    [
+      "reviewing the day's inventory and reprimanding Maeve for a misplaced coffee bean bag",
+      60
+    ],
+    [
+      "overseeing the lunch rush and scolding Dolores for a spilled latte",
+      60
+    ],
+    [
+      "inspecting the cleanliness of the cafe and criticizing Maeve for a smudged window",
+      60
+    ],
+    [
+      "reviewing customer feedback and berating Dolores for a negative review",
+      60
+    ],
+    [
+      "closing Hobbs Cafe and reprimanding Maeve for not turning off the lights",
+      60
+    ],
+    [
+      "returning home and preparing for dinner",
+      60
+    ],
+    [
+      "eating dinner alone in silence",
+      60
+    ],
+    [
+      "reviewing the day's events and planning for tomorrow",
+      60
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "reviewing the cafe's financial records in preparation for tomorrow",
+      60
+    ],
+    [
+      "relaxing in his living room before bed",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing the morning routine",
+      60
+    ],
+    [
+      "walking to Hobbs Cafe",
+      60
+    ],
+    [
+      "opening Hobbs Cafe",
+      60
+    ],
+    [
+      "monitoring Dolores and Maeve as they prepare for the morning rush",
+      60
+    ],
+    [
+      "checking the counter for crumbs and smudges while berating Dolores for a slow order",
+      60
+    ],
+    [
+      "reviewing the day's inventory and reprimanding Maeve for a misplaced coffee bean bag",
+      60
+    ],
+    [
+      "overseeing the lunch rush and scolding Dolores for a spilled latte",
+      60
+    ],
+    [
+      "inspecting the cleanliness of the cafe and criticizing Maeve for a smudged window",
+      60
+    ],
+    [
+      "reviewing customer feedback and berating Dolores for a negative review",
+      60
+    ],
+    [
+      "closing Hobbs Cafe and reprimanding Maeve for not turning off the lights",
+      60
+    ],
+    [
+      "returning home and preparing for dinner",
+      60
+    ],
+    [
+      "eating dinner alone in silence",
+      60
+    ],
+    [
+      "reviewing the day's events and planning for tomorrow",
+      60
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "reviewing the cafe's financial records in preparation for tomorrow",
+      60
+    ],
+    [
+      "relaxing in his living room before bed",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:refrigerator",
+  "act_start_time": "February 13, 2023, 08:25:00",
+  "act_duration": 5,
+  "act_description": "walking to Hobbs Cafe (grabbing keys)",
+  "act_pronunciatio": "🚶‍♂️🔑",
+  "act_event": [
+    "Bernard Lowe",
+    "walking",
+    "None"
+  ],
+  "act_obj_description": "unoccupied",
+  "act_obj_pronunciatio": "🪑",
+  "act_obj_event": [
+    "refrigerator",
+    "unoccupied",
+    "None"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": null
+}

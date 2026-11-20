@@ -1,0 +1,43 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciato": "🚿🚶",
+      "description": "getting up, washing, dressing, and walking to Hobbs Cafe (walking to Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        76,
+        30
+      ],
+      "pronunciato": "💬",
+      "description": "overseeing the counter’s cleanliness and machine readiness before opening @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Mr. Lowe. I’m heading in now—I'll get the counter ready when we arrive."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Check the counter for crumbs and make sure the machines are ready before we open. I don’t want anything overlooked."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        81,
+        37
+      ],
+      "pronunciato": "🍳🚶",
+      "description": "waking, having breakfast, and walking to Hobbs Cafe (walking to Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:54:40"
+  }
+}

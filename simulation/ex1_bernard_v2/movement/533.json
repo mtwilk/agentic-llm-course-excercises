@@ -1,0 +1,44 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "reporting that the station is ready and supplies are stocked @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Morning, Bernard. I’ve finished washing up and checked my station. The espresso machine looks good, and the cups and lids are stocked. Dolores has the grinders ready too—I don’t see anything needing attention."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "☕🧑‍🍳",
+      "description": "preparing the cafe and serving customers at Hobbs Cafe (greeting customers and taking their orders) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "reporting that the station is ready and supplies are stocked @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Morning, Bernard. I’ve finished washing up and checked my station. The espresso machine looks good, and the cups and lids are stocked. Dolores has the grinders ready too—I don’t see anything needing attention."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:27:50"
+  }
+}

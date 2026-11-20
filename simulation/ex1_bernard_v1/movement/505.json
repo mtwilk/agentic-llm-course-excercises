@@ -1,0 +1,92 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciato": "☕️🧹",
+      "description": "opening Hobbs Cafe and overseeing the baristas (inspecting the dining area for cleanliness and safety) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "making coffee together after checking the espresso machine’s pull @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Morning, Dolores. Machine warming up all right? I’m pulling the first shots now. Once it’s ready, I’ll pour us both a coffee."
+        ],
+        [
+          "Dolores Abernathy",
+          "Morning. It’s warming up nicely; I’ll give it another moment and check the pull. Thanks—coffee sounds lovely."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good. I’ll finish these shots, and once you’ve checked the pull, I’ll pour our coffees."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll check the pull as soon as the machine finishes warming, then we can pour our coffees."
+        ],
+        [
+          "Maeve Millay",
+          "Perfect. I’ll finish these shots while it warms—just give me the nod once you’ve checked the pull, and I’ll pour our coffees."
+        ],
+        [
+          "Dolores Abernathy",
+          "The machine’s warmed up now. I’ve checked the pull—it looks good. There’s your nod."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks. I’ll pour us both a coffee now—here you are."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "making coffee together after checking the espresso machine’s pull @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Morning, Dolores. Machine warming up all right? I’m pulling the first shots now. Once it’s ready, I’ll pour us both a coffee."
+        ],
+        [
+          "Dolores Abernathy",
+          "Morning. It’s warming up nicely; I’ll give it another moment and check the pull. Thanks—coffee sounds lovely."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good. I’ll finish these shots, and once you’ve checked the pull, I’ll pour our coffees."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll check the pull as soon as the machine finishes warming, then we can pour our coffees."
+        ],
+        [
+          "Maeve Millay",
+          "Perfect. I’ll finish these shots while it warms—just give me the nod once you’ve checked the pull, and I’ll pour our coffees."
+        ],
+        [
+          "Dolores Abernathy",
+          "The machine’s warmed up now. I’ve checked the pull—it looks good. There’s your nod."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks. I’ll pour us both a coffee now—here you are."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:23:10"
+  }
+}

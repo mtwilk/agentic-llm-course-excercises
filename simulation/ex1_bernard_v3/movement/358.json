@@ -1,0 +1,108 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciato": "🚿🚶",
+      "description": "getting up, washing, dressing, and walking to Hobbs Cafe (walking to Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciato": "💬",
+      "description": "preparing to open the café by sweeping the counter and checking the espresso machine and grinder @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Morning, Maeve. Glad we made it together. Let’s get inside and check the counter and machines before opening."
+        ],
+        [
+          "Maeve Millay",
+          "Morning, Dolores. I’ll check the counter and sweep away any crumbs while you check the machines. Then we should be set to open."
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good. I’ll check the espresso machine and grinder, then we can open once you’ve finished sweeping."
+        ],
+        [
+          "Maeve Millay",
+          "All right, I’ll sweep the counter now and let you know when it’s clear."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll get started on the espresso machine and grinder. Let me know when the counter’s clear, and I’ll tell you if the machines are ready."
+        ],
+        [
+          "Maeve Millay",
+          "Got it. I’m sweeping the counter now, and I’ll let you know as soon as it’s clear."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thanks, Maeve. I’m checking the espresso machine and grinder now. I’ll let you know as soon as they’re ready."
+        ],
+        [
+          "Maeve Millay",
+          "The counter’s clear now. How are the machine checks going?"
+        ],
+        [
+          "Dolores Abernathy",
+          "The espresso machine and grinder are ready. Thanks for clearing the counter—looks like we’re all set to open."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciato": "💬",
+      "description": "preparing to open the café by sweeping the counter and checking the espresso machine and grinder @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Morning, Maeve. Glad we made it together. Let’s get inside and check the counter and machines before opening."
+        ],
+        [
+          "Maeve Millay",
+          "Morning, Dolores. I’ll check the counter and sweep away any crumbs while you check the machines. Then we should be set to open."
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good. I’ll check the espresso machine and grinder, then we can open once you’ve finished sweeping."
+        ],
+        [
+          "Maeve Millay",
+          "All right, I’ll sweep the counter now and let you know when it’s clear."
+        ],
+        [
+          "Dolores Abernathy",
+          "I’ll get started on the espresso machine and grinder. Let me know when the counter’s clear, and I’ll tell you if the machines are ready."
+        ],
+        [
+          "Maeve Millay",
+          "Got it. I’m sweeping the counter now, and I’ll let you know as soon as it’s clear."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thanks, Maeve. I’m checking the espresso machine and grinder now. I’ll let you know as soon as they’re ready."
+        ],
+        [
+          "Maeve Millay",
+          "The counter’s clear now. How are the machine checks going?"
+        ],
+        [
+          "Dolores Abernathy",
+          "The espresso machine and grinder are ready. Thanks for clearing the counter—looks like we’re all set to open."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:58:40"
+  }
+}

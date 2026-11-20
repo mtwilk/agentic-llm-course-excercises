@@ -1,0 +1,413 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 08:30:50",
+  "curr_tile": [
+    78,
+    19
+  ],
+  "daily_plan_req": "Bernard Lowe opens Hobbs Cafe at 8am and works until 4pm. He manages the cafe, monitors the work of his baristas, and handles operations throughout the day. He closes the cafe at 4pm.",
+  "name": "Bernard Lowe",
+  "first_name": "Bernard",
+  "last_name": "Lowe",
+  "age": 58,
+  "innate": "confrontational, demanding, and highly critical of others. He is a perfectionist and expects the same from those around him. He is also highly intelligent and analytical, with a keen eye for detail.",
+  "learned": "Bernard is a self-made man who has worked hard to build his career and reputation. He has learned to be assertive and confident in his abilities, and he is not afraid to speak his mind or challenge others when necessary.",
+  "currently": "Bernard is heading to the cafe to open up for the day.",
+  "lifestyle": "Bernard Lowe wakes up around 7am, walks to Hobbs cafe, where he works from 8am to 4pm. He comes home and eats dinner around 8pm, goes to bed around 11pm.",
+  "living_area": "the Ville:Bernard Lowe's apartment:main room",
+  "concept_forget": 0,
+  "daily_reflection_time": 0,
+  "daily_reflection_size": 0,
+  "overlap_reflect_th": 0,
+  "kw_strg_event_reflect_th": 0,
+  "kw_strg_thought_reflect_th": 0,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "valence_w": 0,
+  "asymetric_encoding": false,
+  "negativity_bias": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 75,
+  "importance_trigger_curr": 22,
+  "importance_ele_n": 51,
+  "thought_count": 0,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00am",
+    "walk to Hobbs Cafe from 7:00 am to 8:00 am",
+    "open Hobbs Cafe and oversee the baristas from 8:00 am to 12:00 pm",
+    "take a lunch break at 12:00 pm",
+    "manage cafe operations, monitor the baristas, and close Hobbs Cafe from 1:00 pm to 4:00 pm",
+    "walk home from 4:00 pm to 5:00 pm",
+    "relax at home from 5:00 pm to 7:00 pm",
+    "prepare dinner from 7:00 pm to 8:00 pm",
+    "eat dinner at 8:00 pm",
+    "unwind at home from 9:00 pm to 11:00 pm",
+    "go to bed at 11:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "getting up, washing, dressing, and walking to Hobbs Cafe (waking up and getting out of bed)",
+      5
+    ],
+    [
+      "getting up, washing, dressing, and walking to Hobbs Cafe (using the bathroom)",
+      5
+    ],
+    [
+      "getting up, washing, dressing, and walking to Hobbs Cafe (showering)",
+      10
+    ],
+    [
+      "getting up, washing, dressing, and walking to Hobbs Cafe (drying off)",
+      5
+    ],
+    [
+      "getting up, washing, dressing, and walking to Hobbs Cafe (brushing teeth)",
+      5
+    ],
+    [
+      "getting up, washing, dressing, and walking to Hobbs Cafe (grooming)",
+      5
+    ],
+    [
+      "getting up, washing, dressing, and walking to Hobbs Cafe (getting dressed)",
+      5
+    ],
+    [
+      "getting up, washing, dressing, and walking to Hobbs Cafe (gathering work essentials)",
+      5
+    ],
+    [
+      "getting up, washing, dressing, and walking to Hobbs Cafe (locking the front door)",
+      5
+    ],
+    [
+      "getting up, washing, dressing, and walking to Hobbs Cafe (walking to Hobbs Cafe)",
+      8
+    ],
+    [
+      "checking the café’s opening readiness by testing the espresso machine and confirming the seating",
+      3
+    ],
+    [
+      "getting up, washing, dressing, and walking to Hobbs Cafe (walking to Hobbs Cafe)",
+      2
+    ],
+    [
+      "opening Hobbs Cafe and overseeing the baristas (unlocking the cafe entrance)",
+      1
+    ],
+    [
+      "waiting to start unlocking the cafe entrance",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and overseeing the baristas (unlocking the cafe entrance)",
+      1
+    ],
+    [
+      "confirming the café is ready to open and preparing to serve customers",
+      1
+    ],
+    [
+      "opening Hobbs Cafe and overseeing the baristas (unlocking the cafe entrance)",
+      3
+    ],
+    [
+      "opening Hobbs Cafe and overseeing the baristas (disarming the alarm and turning on the lights)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and overseeing the baristas (inspecting the dining area for cleanliness and safety)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and overseeing the baristas (checking the espresso machine and other equipment)",
+      2
+    ],
+    [
+      "waiting to start checking the espresso machine and other equipment",
+      1
+    ],
+    [
+      "opening Hobbs Cafe and overseeing the baristas (stocking the barista stations with cups and supplies)",
+      2
+    ],
+    [
+      "overseeing the morning café preparations and final checks before opening",
+      2
+    ],
+    [
+      "opening Hobbs Cafe and overseeing the baristas (stocking the barista stations with cups and supplies)",
+      1
+    ],
+    [
+      "opening Hobbs Cafe and overseeing the baristas (checking the pastry and ingredient displays)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and overseeing the baristas (briefing the baristas on opening priorities)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and overseeing the baristas (assigning baristas to their stations)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and overseeing the baristas (opening the entrance to customers)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and overseeing the baristas (monitoring the first customer orders and barista workflow)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and overseeing the baristas (checking drink quality and correcting preparation issues)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and overseeing the baristas (clearing setup materials and tidying the service counter)",
+      5
+    ],
+    [
+      "managing cafe operations and monitoring the baristas (reviewing the opening handoff and operational notes)",
+      5
+    ],
+    [
+      "managing cafe operations and monitoring the baristas (checking the point-of-sale system and current orders)",
+      5
+    ],
+    [
+      "managing cafe operations and monitoring the baristas (inspecting the bar and dining area for operational issues)",
+      5
+    ],
+    [
+      "managing cafe operations and monitoring the baristas (checking ingredient and supply levels)",
+      5
+    ],
+    [
+      "managing cafe operations and monitoring the baristas (observing baristas preparing drinks and handling orders)",
+      5
+    ],
+    [
+      "managing cafe operations and monitoring the baristas (checking order accuracy and presentation)",
+      5
+    ],
+    [
+      "managing cafe operations and monitoring the baristas (monitoring queue times and customer flow)",
+      5
+    ],
+    [
+      "managing cafe operations and monitoring the baristas (giving baristas specific feedback on service and workflow)",
+      5
+    ],
+    [
+      "managing cafe operations and monitoring the baristas (resolving a service issue and clarifying priorities)",
+      5
+    ],
+    [
+      "managing cafe operations and monitoring the baristas (reviewing sales activity and upcoming operational needs)",
+      5
+    ],
+    [
+      "managing cafe operations and monitoring the baristas (updating the operations log with issues and follow-up items)",
+      2
+    ],
+    [
+      "managing cafe operations and monitoring the baristas (organizing notes and resetting the management station)",
+      1
+    ],
+    [
+      "checking service standards and directing the baristas",
+      60
+    ],
+    [
+      "managing cafe operations and overseeing the baristas",
+      60
+    ],
+    [
+      "taking a lunch break",
+      60
+    ],
+    [
+      "resuming cafe operations and monitoring the baristas",
+      60
+    ],
+    [
+      "checking inventory and ensuring service standards are met",
+      60
+    ],
+    [
+      "overseeing the baristas and preparing to close Hobbs Cafe",
+      60
+    ],
+    [
+      "closing Hobbs Cafe and walking home",
+      60
+    ],
+    [
+      "relaxing at home",
+      60
+    ],
+    [
+      "unwinding at home",
+      60
+    ],
+    [
+      "preparing dinner",
+      60
+    ],
+    [
+      "eating dinner",
+      60
+    ],
+    [
+      "relaxing at home",
+      60
+    ],
+    [
+      "unwinding at home",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "getting up, washing, dressing, and walking to Hobbs Cafe",
+      60
+    ],
+    [
+      "opening Hobbs Cafe and overseeing the baristas",
+      60
+    ],
+    [
+      "managing cafe operations and monitoring the baristas",
+      60
+    ],
+    [
+      "checking service standards and directing the baristas",
+      60
+    ],
+    [
+      "managing cafe operations and overseeing the baristas",
+      60
+    ],
+    [
+      "taking a lunch break",
+      60
+    ],
+    [
+      "resuming cafe operations and monitoring the baristas",
+      60
+    ],
+    [
+      "checking inventory and ensuring service standards are met",
+      60
+    ],
+    [
+      "overseeing the baristas and preparing to close Hobbs Cafe",
+      60
+    ],
+    [
+      "closing Hobbs Cafe and walking home",
+      60
+    ],
+    [
+      "relaxing at home",
+      60
+    ],
+    [
+      "unwinding at home",
+      60
+    ],
+    [
+      "preparing dinner",
+      60
+    ],
+    [
+      "eating dinner",
+      60
+    ],
+    [
+      "relaxing at home",
+      60
+    ],
+    [
+      "unwinding at home",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "\u003cpersona\u003e Dolores Abernathy",
+  "act_start_time": "February 13, 2023, 08:29:10",
+  "act_duration": 2,
+  "act_description": "overseeing the morning café preparations and final checks before opening",
+  "act_pronunciatio": "💬",
+  "act_event": [
+    "Bernard Lowe",
+    "chat with",
+    "Dolores Abernathy"
+  ],
+  "act_obj_description": "",
+  "act_obj_pronunciatio": "",
+  "act_obj_event": [
+    "",
+    "",
+    ""
+  ],
+  "chatting_with": "Dolores Abernathy",
+  "chat": [
+    [
+      "Bernard Lowe",
+      "The first batch is underway, then? Keep an eye on the brew and tell me immediately if the espresso machine or grinder gives you any trouble. We open at eight; I expect everything ready before then."
+    ],
+    [
+      "Dolores Abernathy",
+      "Yes, Bernard. The first batch is underway, and I’ll keep an eye on the brew and let you know right away if the machine or grinder gives me any trouble."
+    ],
+    [
+      "Bernard Lowe",
+      "Good. Once the brew is ready, check the seating and counter supplies one last time. I want everything in order before we unlock the doors."
+    ],
+    [
+      "Dolores Abernathy",
+      "Yes, Bernard. I’ll check the seating and counter supplies as soon as the brew is ready, and make sure everything’s in order before the doors are unlocked."
+    ],
+    [
+      "Bernard Lowe",
+      "All right. I’ll finish stocking the stations. Let me know as soon as the brew is ready and you’ve completed the final checks."
+    ],
+    [
+      "Dolores Abernathy",
+      "Understood, Bernard. I’ll keep watch on the brew, then check the seating and supplies and let you know as soon as everything’s ready."
+    ],
+    [
+      "Bernard Lowe",
+      "Good. I’ll be nearby finishing the stations. Come find me as soon as the brew is ready and you’ve completed the checks."
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Dolores Abernathy": 109,
+    "Maeve Millay": -4
+  },
+  "chatting_end_time": "February 13, 2023, 08:32:00",
+  "act_path_set": true,
+  "planned_path": null
+}

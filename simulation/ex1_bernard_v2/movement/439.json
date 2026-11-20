@@ -1,0 +1,84 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "ensuring the counter is fully stocked before opening @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Good morning, Dolores. I see you’re stocking the cups and lids. Please make sure the counter is fully supplied before opening, and let me know when you’ve finished."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Bernard. I’m finishing up the cups and lids now. I’ll let you know as soon as the counter is fully supplied."
+        ],
+        [
+          "Bernard Lowe",
+          "Very good. Please check the rest of the service supplies as well, and let me know when the counter is ready."
+        ],
+        [
+          "Dolores Abernathy",
+          "Of course. I’ll check the rest of the supplies now and let you know as soon as the counter is ready."
+        ],
+        [
+          "Bernard Lowe",
+          "Thank you. I’ll be at the counter; let me know as soon as you’ve finished the check."
+        ],
+        [
+          "Dolores Abernathy",
+          "The counter is fully supplied now, Bernard. I’ve checked the rest of the service supplies as well."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "ensuring the counter is fully stocked before opening @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Good morning, Dolores. I see you’re stocking the cups and lids. Please make sure the counter is fully supplied before opening, and let me know when you’ve finished."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Bernard. I’m finishing up the cups and lids now. I’ll let you know as soon as the counter is fully supplied."
+        ],
+        [
+          "Bernard Lowe",
+          "Very good. Please check the rest of the service supplies as well, and let me know when the counter is ready."
+        ],
+        [
+          "Dolores Abernathy",
+          "Of course. I’ll check the rest of the supplies now and let you know as soon as the counter is ready."
+        ],
+        [
+          "Bernard Lowe",
+          "Thank you. I’ll be at the counter; let me know as soon as you’ve finished the check."
+        ],
+        [
+          "Dolores Abernathy",
+          "The counter is fully supplied now, Bernard. I’ve checked the rest of the service supplies as well."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "☕️🔧",
+      "description": "working as a barista at Hobbs Cafe (checking the espresso machine) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:12:10"
+  }
+}

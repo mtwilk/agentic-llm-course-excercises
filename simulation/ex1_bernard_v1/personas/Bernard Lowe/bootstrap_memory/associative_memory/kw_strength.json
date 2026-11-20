@@ -1,0 +1,39 @@
+{
+  "kw_strength_thought": {
+    "bernard lowe": 14,
+    "found noteworthy": 3,
+    "learned": 4,
+    "maeve had checked the grinder and cleaned the counter": 3,
+    "plan": 7,
+    "remember": 4,
+    "remembering": 3,
+    "that the café is opening now, with the seating ready and maeve behind the counter for the first customers": 3,
+    "that the espresso machine completed a full cycle, was heating and pulling properly, and that the front seating was ready": 4,
+    "that the front seating is ready and the espresso machine passed a full-cycle test": 4
+  },
+  "kw_strength_event": {
+    "bathroom sink": 5,
+    "bed": 7,
+    "behind the cafe counter": 32,
+    "bernard lowe": 60,
+    "cafe": 4,
+    "cafe customer seating": 12,
+    "checking the espresso machine and other equipment": 2,
+    "cups and supplies": 2,
+    "customers": 11,
+    "customers and drinks": 4,
+    "dolores abernathy": 37,
+    "drinks": 2,
+    "hobbs cafe": 34,
+    "kitchen sink": 4,
+    "maeve millay": 37,
+    "none": 86,
+    "service": 3,
+    "shower": 13,
+    "the cafe": 3,
+    "the cafe for customers": 5,
+    "the first batch of coffee": 1,
+    "toilet": 6,
+    "unlocking the cafe entrance": 4
+  }
+}

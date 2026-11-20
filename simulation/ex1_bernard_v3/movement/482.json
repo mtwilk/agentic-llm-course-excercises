@@ -1,0 +1,76 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciato": "☕👀",
+      "description": "opening Hobbs Cafe and directing the baristas as service begins (inspecting the dining area) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "getting the café ready to open @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Morning, Maeve. Thanks for getting the espresso machine and grinder started. I’m setting up the workstation—once they’re warmed up, we should be ready to open."
+        ],
+        [
+          "Maeve Millay",
+          "Morning. They’re warming up now. I’ll give the counter a quick sweep and make sure everything’s clear while you finish setting up."
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good. I’ll finish arranging the tools and restock the cups while you clear the counter."
+        ],
+        [
+          "Maeve Millay",
+          "Got it. I’ll clear the counter, and then we can do a quick check that everything’s ready to open."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thanks. I’ve finished setting up and restocked the cups. Let’s do that quick check together, then we’ll be ready to open."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "getting the café ready to open @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Morning, Maeve. Thanks for getting the espresso machine and grinder started. I’m setting up the workstation—once they’re warmed up, we should be ready to open."
+        ],
+        [
+          "Maeve Millay",
+          "Morning. They’re warming up now. I’ll give the counter a quick sweep and make sure everything’s clear while you finish setting up."
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good. I’ll finish arranging the tools and restock the cups while you clear the counter."
+        ],
+        [
+          "Maeve Millay",
+          "Got it. I’ll clear the counter, and then we can do a quick check that everything’s ready to open."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thanks. I’ve finished setting up and restocked the cups. Let’s do that quick check together, then we’ll be ready to open."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:19:20"
+  }
+}

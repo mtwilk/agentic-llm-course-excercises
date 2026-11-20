@@ -1,0 +1,68 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "⏰",
+      "description": "waking up and completing the morning routine (reviewing the day's schedule) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        124,
+        54
+      ],
+      "pronunciato": "💬",
+      "description": "exchanging friendly greetings and making plans to meet at hobbs cafe @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, good morning! I hope you're having a great start to your day."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I'm just getting ready for work. I hope your day is going well too."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds good! I'm heading out to work soon too. I'll see you at Hobbs Cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "See you at Hobbs Cafe, Maeve! Have a great day."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        124,
+        50
+      ],
+      "pronunciato": "💬",
+      "description": "exchanging friendly greetings and making plans to meet at hobbs cafe @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, good morning! I hope you're having a great start to your day."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I'm just getting ready for work. I hope your day is going well too."
+        ],
+        [
+          "Maeve Millay",
+          "That sounds good! I'm heading out to work soon too. I'll see you at Hobbs Cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "See you at Hobbs Cafe, Maeve! Have a great day."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:51:40"
+  }
+}

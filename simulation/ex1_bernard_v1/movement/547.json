@@ -1,0 +1,92 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "overseeing the morning café preparations and final checks before opening @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "The first batch is underway, then? Keep an eye on the brew and tell me immediately if the espresso machine or grinder gives you any trouble. We open at eight; I expect everything ready before then."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, Bernard. The first batch is underway, and I’ll keep an eye on the brew and let you know right away if the machine or grinder gives me any trouble."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Once the brew is ready, check the seating and counter supplies one last time. I want everything in order before we unlock the doors."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, Bernard. I’ll check the seating and counter supplies as soon as the brew is ready, and make sure everything’s in order before the doors are unlocked."
+        ],
+        [
+          "Bernard Lowe",
+          "All right. I’ll finish stocking the stations. Let me know as soon as the brew is ready and you’ve completed the final checks."
+        ],
+        [
+          "Dolores Abernathy",
+          "Understood, Bernard. I’ll keep watch on the brew, then check the seating and supplies and let you know as soon as everything’s ready."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. I’ll be nearby finishing the stations. Come find me as soon as the brew is ready and you’ve completed the checks."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "overseeing the morning café preparations and final checks before opening @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "The first batch is underway, then? Keep an eye on the brew and tell me immediately if the espresso machine or grinder gives you any trouble. We open at eight; I expect everything ready before then."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, Bernard. The first batch is underway, and I’ll keep an eye on the brew and let you know right away if the machine or grinder gives me any trouble."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Once the brew is ready, check the seating and counter supplies one last time. I want everything in order before we unlock the doors."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, Bernard. I’ll check the seating and counter supplies as soon as the brew is ready, and make sure everything’s in order before the doors are unlocked."
+        ],
+        [
+          "Bernard Lowe",
+          "All right. I’ll finish stocking the stations. Let me know as soon as the brew is ready and you’ve completed the final checks."
+        ],
+        [
+          "Dolores Abernathy",
+          "Understood, Bernard. I’ll keep watch on the brew, then check the seating and supplies and let you know as soon as everything’s ready."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. I’ll be nearby finishing the stations. Come find me as soon as the brew is ready and you’ve completed the checks."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "☕️🥛",
+      "description": "serving customers and preparing drinks at Hobbs Cafe (steaming milk and assembling drinks) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:30:10"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "confirming the café is ready to open and preparing to serve customers @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Morning, Bernard. I’ve checked the espresso machine and grinder, and the counter’s clean. Is there anything else you’d like me to check before we open?"
+        ],
+        [
+          "Bernard Lowe",
+          "No. The seating is ready, and the machine passed its full-cycle test. You’ve checked the grinder and cleaned the counter; that’s sufficient. We’re opening now—get behind the counter and be ready for the first customers."
+        ],
+        [
+          "Maeve Millay",
+          "Right. I’ll get behind the counter and be ready for the first customers."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "☕🔍",
+      "description": "working as a barista at Hobbs Cafe and preparing the cafe for customers (checking the cafe for overnight issues) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "confirming the café is ready to open and preparing to serve customers @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Morning, Bernard. I’ve checked the espresso machine and grinder, and the counter’s clean. Is there anything else you’d like me to check before we open?"
+        ],
+        [
+          "Bernard Lowe",
+          "No. The seating is ready, and the machine passed its full-cycle test. You’ve checked the grinder and cleaned the counter; that’s sufficient. We’re opening now—get behind the counter and be ready for the first customers."
+        ],
+        [
+          "Maeve Millay",
+          "Right. I’ll get behind the counter and be ready for the first customers."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:11:40"
+  }
+}

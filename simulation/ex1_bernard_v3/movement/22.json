@@ -1,0 +1,60 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        81,
+        14
+      ],
+      "pronunciato": "🛏️🚶",
+      "description": "getting up, washing, dressing, and walking to Hobbs Cafe (getting out of bed) @ the Ville:Bernard Lowe's apartment:bathroom:shower",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        118,
+        49
+      ],
+      "pronunciato": "💬",
+      "description": "finishing breakfast before heading to Hobbs together @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Morning, Maeve. I’m just grabbing breakfast before heading to Hobbs. Are you about ready?"
+        ],
+        [
+          "Maeve Millay",
+          "Morning, Dolores. Nearly—I’m just finishing breakfast, then I’ll be ready to head out."
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good. I’ll finish up too—let’s head over together when you’re ready."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        122,
+        50
+      ],
+      "pronunciato": "💬",
+      "description": "finishing breakfast before heading to Hobbs together @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Morning, Maeve. I’m just grabbing breakfast before heading to Hobbs. Are you about ready?"
+        ],
+        [
+          "Maeve Millay",
+          "Morning, Dolores. Nearly—I’m just finishing breakfast, then I’ll be ready to head out."
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good. I’ll finish up too—let’s head over together when you’re ready."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:02:40"
+  }
+}

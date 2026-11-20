@@ -36,6 +36,7 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
+.venv/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -109,6 +110,11 @@ frontend_server/storage/test*
 frontend_server/storage/base_cafe_spiral_*
 !frontend_server/storage/base_cafe_spiral
 !frontend_server/storage/base_cafe_spiral_full
-simulation/*
-!simulation/base_cafe_spiral/
+
+# commented this out so that simulation files are pushed to the repo
+# simulation/*
+# !simulation/base_cafe_spiral/
 __debug_bin*
+
+# Server backups (written to <run>/_state/ in the repo root when BACKUP_DIR is unset)
+*/_state/

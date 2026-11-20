@@ -1,0 +1,1894 @@
+{
+  "node_1": {
+    "node_count": 1,
+    "type_count": 0,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 00:00:00",
+    "expiration": "2023-03-15 00:00:00",
+    "subject": "Dolores Abernathy",
+    "predicate": "plan",
+    "object": "Monday February 13",
+    "description": "This is Dolores Abernathy's plan for Monday February 13: wake up and complete the morning routine at 7:00am, have breakfast and walk to Hobbs Cafe from 7:00 am to 8:00 am, work at Hobbs Cafe from 8:00 am to 4:00 pm, walk back to the dorm and return to her room from 4:00 pm to 5:00 pm, read in her room from 5:00 pm to 6:00 pm, have dinner at the dorm at 6:00 pm, read in her room from 7:00 pm to 9:00 pm, work on the computer in her room from 9:00 pm to 10:00 pm, read in her room from 10:00 pm to 11:00 pm, go to bed at 11:00 pm.",
+    "original_description": "This is Dolores Abernathy's plan for Monday February 13: wake up and complete the morning routine at 7:00am, have breakfast and walk to Hobbs Cafe from 7:00 am to 8:00 am, work at Hobbs Cafe from 8:00 am to 4:00 pm, walk back to the dorm and return to her room from 4:00 pm to 5:00 pm, read in her room from 5:00 pm to 6:00 pm, have dinner at the dorm at 6:00 pm, read in her room from 7:00 pm to 9:00 pm, work on the computer in her room from 9:00 pm to 10:00 pm, read in her room from 10:00 pm to 11:00 pm, go to bed at 11:00 pm.",
+    "embedding_key": "This is Dolores Abernathy's plan for Monday February 13: wake up and complete the morning routine at 7:00am, have breakfast and walk to Hobbs Cafe from 7:00 am to 8:00 am, work at Hobbs Cafe from 8:00 am to 4:00 pm, walk back to the dorm and return to her room from 4:00 pm to 5:00 pm, read in her room from 5:00 pm to 6:00 pm, have dinner at the dorm at 6:00 pm, read in her room from 7:00 pm to 9:00 pm, work on the computer in her room from 9:00 pm to 10:00 pm, read in her room from 10:00 pm to 11:00 pm, go to bed at 11:00 pm.",
+    "poignancy": 2,
+    "valence": 1,
+    "keywords": [
+      "plan"
+    ],
+    "filling": null
+  },
+  "node_10": {
+    "node_count": 10,
+    "type_count": 8,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:14:00",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "walking",
+    "object": "Hobbs Cafe",
+    "description": "Maeve Millay is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (getting dressed and ready for work)",
+    "original_description": "Maeve Millay is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (getting dressed and ready for work)",
+    "embedding_key": "Maeve Millay is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (getting dressed and ready for work)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_11": {
+    "node_count": 11,
+    "type_count": 9,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:17:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:closet",
+    "predicate": "open",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:closet is open",
+    "original_description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:closet is open",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:closet is open",
+    "poignancy": 1,
+    "valence": -1,
+    "keywords": [
+      "closet",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_12": {
+    "node_count": 12,
+    "type_count": 10,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:20:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "preparing",
+    "object": "breakfast",
+    "description": "Dolores Abernathy is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (preparing breakfast)",
+    "original_description": "Dolores Abernathy is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (preparing breakfast)",
+    "embedding_key": "Dolores Abernathy is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (preparing breakfast)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "breakfast"
+    ],
+    "filling": null
+  },
+  "node_13": {
+    "node_count": 13,
+    "type_count": 11,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:20:40",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "preparing",
+    "object": "breakfast",
+    "description": "Maeve Millay is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (preparing breakfast)",
+    "original_description": "Maeve Millay is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (preparing breakfast)",
+    "embedding_key": "Maeve Millay is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (preparing breakfast)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "breakfast"
+    ],
+    "filling": null
+  },
+  "node_14": {
+    "node_count": 14,
+    "type_count": 0,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 07:20:50",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "having breakfast together after preparing toast and coffee",
+    "original_description": "having breakfast together after preparing toast and coffee",
+    "embedding_key": "having breakfast together after preparing toast and coffee",
+    "poignancy": 1,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Morning, Maeve. The toast should be ready in a minute—would you like a slice?"
+      ],
+      [
+        "Maeve Millay",
+        "Morning, Dolores. Yes, please—thank you. I’ll get the coffee started while it finishes."
+      ],
+      [
+        "Dolores Abernathy",
+        "Sounds good. I’ll get the toast and plates."
+      ],
+      [
+        "Maeve Millay",
+        "Perfect, thanks. Coffee’s brewing—want a cup too?"
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, please—thank you. I’ll bring the plates over while the toast finishes."
+      ],
+      [
+        "Maeve Millay",
+        "Great, thanks. I’ll pour us both a cup once it’s ready."
+      ],
+      [
+        "Dolores Abernathy",
+        "Thanks, Maeve. Let’s have breakfast while it’s hot."
+      ]
+    ]
+  },
+  "node_15": {
+    "node_count": 15,
+    "type_count": 12,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:20:50",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is having breakfast together after preparing toast and coffee",
+    "original_description": "Dolores Abernathy is having breakfast together after preparing toast and coffee",
+    "embedding_key": "Dolores Abernathy is having breakfast together after preparing toast and coffee",
+    "poignancy": 1,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_14"
+    ]
+  },
+  "node_16": {
+    "node_count": 16,
+    "type_count": 13,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:20:50",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is having breakfast together after preparing toast and coffee",
+    "original_description": "Maeve Millay is having breakfast together after preparing toast and coffee",
+    "embedding_key": "Maeve Millay is having breakfast together after preparing toast and coffee",
+    "poignancy": 1,
+    "valence": 1,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_17": {
+    "node_count": 17,
+    "type_count": 1,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 07:21:50",
+    "expiration": "2023-03-15 07:21:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "bringing",
+    "object": "the toast and plates",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to bring the toast and plates while Maeve pours coffee for both of them so they can have breakfast while it is hot.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to bring the toast and plates while Maeve pours coffee for both of them so they can have breakfast while it is hot.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to bring the toast and plates while Maeve pours coffee for both of them so they can have breakfast while it is hot.",
+    "poignancy": 2,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "bringing",
+      "the toast and plates"
+    ],
+    "filling": null
+  },
+  "node_18": {
+    "node_count": 18,
+    "type_count": 2,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 07:21:50",
+    "expiration": "2023-03-15 07:21:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "coordinated",
+    "object": "making toast and coffee for breakfast",
+    "description": "Dolores Abernathy Dolores Abernathy and Maeve Millay coordinated making toast and coffee for breakfast.",
+    "original_description": "Dolores Abernathy Dolores Abernathy and Maeve Millay coordinated making toast and coffee for breakfast.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy and Maeve Millay coordinated making toast and coffee for breakfast.",
+    "poignancy": 2,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "coordinated",
+      "making toast and coffee for breakfast"
+    ],
+    "filling": null
+  },
+  "node_19": {
+    "node_count": 19,
+    "type_count": 14,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:22:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:cooking area",
+    "predicate": "preparing",
+    "object": "breakfast",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:cooking area is in use for breakfast preparation",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:cooking area is in use for breakfast preparation",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:cooking area is in use for breakfast preparation",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "cooking area",
+      "breakfast"
+    ],
+    "filling": null
+  },
+  "node_2": {
+    "node_count": 2,
+    "type_count": 0,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "sleeping",
+    "object": "None",
+    "description": "Dolores Abernathy is sleeping",
+    "original_description": "Dolores Abernathy is sleeping",
+    "embedding_key": "Dolores Abernathy is sleeping",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_20": {
+    "node_count": 20,
+    "type_count": 15,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:30:30",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "eating",
+    "object": "breakfast",
+    "description": "Maeve Millay is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (eating breakfast)",
+    "original_description": "Maeve Millay is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (eating breakfast)",
+    "embedding_key": "Maeve Millay is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (eating breakfast)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "breakfast"
+    ],
+    "filling": null
+  },
+  "node_21": {
+    "node_count": 21,
+    "type_count": 16,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:30:50",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:toaster",
+    "predicate": "not in use",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is not in use",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is not in use",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:toaster is not in use",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "toaster",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_22": {
+    "node_count": 22,
+    "type_count": 17,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:31:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "eating",
+    "object": "breakfast",
+    "description": "Dolores Abernathy is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (eating breakfast)",
+    "original_description": "Dolores Abernathy is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (eating breakfast)",
+    "embedding_key": "Dolores Abernathy is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (eating breakfast)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "breakfast"
+    ],
+    "filling": null
+  },
+  "node_23": {
+    "node_count": 23,
+    "type_count": 18,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:36:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "walking to",
+    "object": "Hobbs Cafe",
+    "description": "Maeve Millay is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (clearing breakfast dishes)",
+    "original_description": "Maeve Millay is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (clearing breakfast dishes)",
+    "embedding_key": "Maeve Millay is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (clearing breakfast dishes)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_24": {
+    "node_count": 24,
+    "type_count": 19,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:36:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+    "predicate": "containing",
+    "object": "breakfast dishes",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is containing breakfast dishes",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is containing breakfast dishes",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is containing breakfast dishes",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "breakfast dishes"
+    ],
+    "filling": null
+  },
+  "node_25": {
+    "node_count": 25,
+    "type_count": 20,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:41:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walking to",
+    "object": "Hobbs Cafe",
+    "description": "Dolores Abernathy is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (cleaning up breakfast dishes)",
+    "original_description": "Dolores Abernathy is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (cleaning up breakfast dishes)",
+    "embedding_key": "Dolores Abernathy is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (cleaning up breakfast dishes)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_26": {
+    "node_count": 26,
+    "type_count": 21,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:41:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "walking",
+    "object": "Hobbs Cafe",
+    "description": "Maeve Millay is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (gathering work belongings)",
+    "original_description": "Maeve Millay is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (gathering work belongings)",
+    "embedding_key": "Maeve Millay is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (gathering work belongings)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_27": {
+    "node_count": 27,
+    "type_count": 22,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:43:50",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed",
+    "predicate": "unoccupied",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is unoccupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is unoccupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is unoccupied",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_28": {
+    "node_count": 28,
+    "type_count": 23,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:46:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walking",
+    "object": "Hobbs Cafe",
+    "description": "Dolores Abernathy is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (gathering work items)",
+    "original_description": "Dolores Abernathy is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (gathering work items)",
+    "embedding_key": "Dolores Abernathy is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (gathering work items)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_29": {
+    "node_count": 29,
+    "type_count": 24,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:58:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "walking to",
+    "object": "Hobbs Cafe",
+    "description": "Bernard Lowe is getting up, washing, dressing, and walking to Hobbs Cafe (walking to Hobbs Cafe)",
+    "original_description": "Bernard Lowe is getting up, washing, dressing, and walking to Hobbs Cafe (walking to Hobbs Cafe)",
+    "embedding_key": "Bernard Lowe is getting up, washing, dressing, and walking to Hobbs Cafe (walking to Hobbs Cafe)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_3": {
+    "node_count": 3,
+    "type_count": 1,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed",
+    "predicate": "occupied",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is occupied",
+    "original_description": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is occupied",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed is occupied",
+    "poignancy": 1,
+    "valence": -2,
+    "keywords": [
+      "bed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_30": {
+    "node_count": 30,
+    "type_count": 25,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:58:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "available",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "poignancy": 1,
+    "valence": 1,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_31": {
+    "node_count": 31,
+    "type_count": 1,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 07:58:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "checking the café’s opening readiness by testing the espresso machine and confirming the seating",
+    "original_description": "checking the café’s opening readiness by testing the espresso machine and confirming the seating",
+    "embedding_key": "checking the café’s opening readiness by testing the espresso machine and confirming the seating",
+    "poignancy": 2,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Good morning, Bernard. Are we all set to open the cafe?"
+      ],
+      [
+        "Bernard Lowe",
+        "Good morning, Dolores. We’re nearly set. Please check the opening checklist and make sure the espresso machine and front seating are ready before we unlock the doors."
+      ],
+      [
+        "Dolores Abernathy",
+        "Of course. I’ll check the espresso machine and front seating against the checklist now, and let you know when everything’s ready."
+      ],
+      [
+        "Bernard Lowe",
+        "Good. Check both carefully, and tell me immediately if anything is out of order. We open at eight; I don’t want surprises."
+      ],
+      [
+        "Dolores Abernathy",
+        "Understood. I’ll check the machine and seating carefully against the checklist, and I’ll tell you right away if I find anything wrong."
+      ],
+      [
+        "Bernard Lowe",
+        "Good. I’ll finish the remaining opening preparations. Report back as soon as you’ve checked both items—don’t unlock the doors until we’re certain everything is ready."
+      ],
+      [
+        "Dolores Abernathy",
+        "The front seating is ready. I’m checking the espresso machine now, and I’ll let you know immediately if I find anything out of order."
+      ],
+      [
+        "Bernard Lowe",
+        "All right. Test the machine through a full cycle, and check that it’s heating and pulling properly. Let me know as soon as you’ve finished."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Bernard. I’ll run a full cycle now and check the heating and extraction, then report back before we unlock the doors."
+      ],
+      [
+        "Bernard Lowe",
+        "Good. I’ll keep the doors locked until you’ve completed the cycle and confirmed the machine is working properly. Report the results as soon as you’re done."
+      ],
+      [
+        "Dolores Abernathy",
+        "I’ve completed the full cycle. The machine is heating properly and pulling as it should. The front seating is ready as well, so we’re clear to open."
+      ]
+    ]
+  },
+  "node_32": {
+    "node_count": 32,
+    "type_count": 26,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:58:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is checking the café’s opening readiness by testing the espresso machine and confirming the seating",
+    "original_description": "Dolores Abernathy is checking the café’s opening readiness by testing the espresso machine and confirming the seating",
+    "embedding_key": "Dolores Abernathy is checking the café’s opening readiness by testing the espresso machine and confirming the seating",
+    "poignancy": 1,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      "node_31"
+    ]
+  },
+  "node_33": {
+    "node_count": 33,
+    "type_count": 27,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:58:30",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "walking to",
+    "object": "Hobbs Cafe",
+    "description": "Maeve Millay is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (walking to Hobbs Cafe)",
+    "original_description": "Maeve Millay is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (walking to Hobbs Cafe)",
+    "embedding_key": "Maeve Millay is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (walking to Hobbs Cafe)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_34": {
+    "node_count": 34,
+    "type_count": 28,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:58:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is checking the café’s opening readiness by testing the espresso machine and confirming the seating",
+    "original_description": "Bernard Lowe is checking the café’s opening readiness by testing the espresso machine and confirming the seating",
+    "embedding_key": "Bernard Lowe is checking the café’s opening readiness by testing the espresso machine and confirming the seating",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_35": {
+    "node_count": 35,
+    "type_count": 29,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:00:00",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "unoccupied",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is unoccupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is unoccupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is unoccupied",
+    "poignancy": 1,
+    "valence": 1,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_36": {
+    "node_count": 36,
+    "type_count": 30,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:01:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "customers",
+    "description": "Maeve Millay is serving customers and preparing drinks at Hobbs Cafe (washing hands and sanitizing the counter)",
+    "original_description": "Maeve Millay is serving customers and preparing drinks at Hobbs Cafe (washing hands and sanitizing the counter)",
+    "embedding_key": "Maeve Millay is serving customers and preparing drinks at Hobbs Cafe (washing hands and sanitizing the counter)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "customers"
+    ],
+    "filling": null
+  },
+  "node_37": {
+    "node_count": 37,
+    "type_count": 3,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:01:50",
+    "expiration": "2023-03-15 08:01:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "remembering",
+    "object": "that the café opens at eight and that the doors should stay locked until the espresso machine and front seating are confirmed ready",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember that the café opens at eight and that the doors should stay locked until the espresso machine and front seating are confirmed ready.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember that the café opens at eight and that the doors should stay locked until the espresso machine and front seating are confirmed ready.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember that the café opens at eight and that the doors should stay locked until the espresso machine and front seating are confirmed ready.",
+    "poignancy": 2,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "remembering",
+      "that the café opens at eight and that the doors should stay locked until the espresso machine and front seating are confirmed ready"
+    ],
+    "filling": null
+  },
+  "node_38": {
+    "node_count": 38,
+    "type_count": 4,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:01:50",
+    "expiration": "2023-03-15 08:01:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "confirmed",
+    "object": "that the espresso machine heated and pulled properly after a full cycle, and that the front seating was ready",
+    "description": "Dolores Abernathy Dolores Abernathy confirmed that the espresso machine heated and pulled properly after a full cycle, and that the front seating was ready.",
+    "original_description": "Dolores Abernathy Dolores Abernathy confirmed that the espresso machine heated and pulled properly after a full cycle, and that the front seating was ready.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy confirmed that the espresso machine heated and pulled properly after a full cycle, and that the front seating was ready.",
+    "poignancy": 2,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "confirmed",
+      "that the espresso machine heated and pulled properly after a full cycle, and that the front seating was ready"
+    ],
+    "filling": null
+  },
+  "node_39": {
+    "node_count": 39,
+    "type_count": 31,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:02:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walking to",
+    "object": "Hobbs Cafe",
+    "description": "Dolores Abernathy is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (walking to Hobbs Cafe)",
+    "original_description": "Dolores Abernathy is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (walking to Hobbs Cafe)",
+    "embedding_key": "Dolores Abernathy is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (walking to Hobbs Cafe)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_4": {
+    "node_count": 4,
+    "type_count": 2,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:00:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Dolores Abernathy is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (waking up)",
+    "original_description": "Dolores Abernathy is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (waking up)",
+    "embedding_key": "Dolores Abernathy is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (waking up)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_40": {
+    "node_count": 40,
+    "type_count": 32,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:02:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "walking",
+    "object": "Hobbs Cafe",
+    "description": "Bernard Lowe is getting up, washing, dressing, and walking to Hobbs Cafe (walking to Hobbs Cafe)",
+    "original_description": "Bernard Lowe is getting up, washing, dressing, and walking to Hobbs Cafe (walking to Hobbs Cafe)",
+    "embedding_key": "Bernard Lowe is getting up, washing, dressing, and walking to Hobbs Cafe (walking to Hobbs Cafe)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_41": {
+    "node_count": 41,
+    "type_count": 2,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 08:02:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "preparing to open the café after checking the seating and espresso machine",
+    "original_description": "preparing to open the café after checking the seating and espresso machine",
+    "embedding_key": "preparing to open the café after checking the seating and espresso machine",
+    "poignancy": 1,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Morning, Dolores. Glad you made it in. I’m just finishing up the counter—how was the walk over?"
+      ],
+      [
+        "Dolores Abernathy",
+        "It was nice, a little brisk. I’m glad I made it in—everything’s ready on my end. I can help finish the setup."
+      ],
+      [
+        "Maeve Millay",
+        "Thanks, Dolores. Could you check the seating and make sure the espresso machine’s ready? I’ll finish wiping down here, then we should be set."
+      ],
+      [
+        "Dolores Abernathy",
+        "I checked the seating—it’s ready. The espresso machine heated up and pulled properly through a full cycle, too. We’ll be set once you finish wiping down."
+      ],
+      [
+        "Maeve Millay",
+        "Perfect, thanks. The counter’s clean, too—let’s open up."
+      ]
+    ]
+  },
+  "node_42": {
+    "node_count": 42,
+    "type_count": 33,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:02:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is preparing to open the café after checking the seating and espresso machine",
+    "original_description": "Dolores Abernathy is preparing to open the café after checking the seating and espresso machine",
+    "embedding_key": "Dolores Abernathy is preparing to open the café after checking the seating and espresso machine",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_41"
+    ]
+  },
+  "node_43": {
+    "node_count": 43,
+    "type_count": 34,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:02:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is preparing to open the café after checking the seating and espresso machine",
+    "original_description": "Maeve Millay is preparing to open the café after checking the seating and espresso machine",
+    "embedding_key": "Maeve Millay is preparing to open the café after checking the seating and espresso machine",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_44": {
+    "node_count": 44,
+    "type_count": 5,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:03:50",
+    "expiration": "2023-03-15 08:03:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "remembering",
+    "object": "specific future plans",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy does not need to remember any specific future plans; the seating and espresso machine are ready, and the café is open.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy does not need to remember any specific future plans; the seating and espresso machine are ready, and the café is open.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy does not need to remember any specific future plans; the seating and espresso machine are ready, and the café is open.",
+    "poignancy": 1,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "remembering",
+      "specific future plans"
+    ],
+    "filling": null
+  },
+  "node_45": {
+    "node_count": 45,
+    "type_count": 6,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:03:50",
+    "expiration": "2023-03-15 08:03:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "found",
+    "object": "that the seating was ready and the espresso machine heated up and pulled properly through a full cycle",
+    "description": "Dolores Abernathy Dolores Abernathy found that the seating was ready and the espresso machine heated up and pulled properly through a full cycle.",
+    "original_description": "Dolores Abernathy Dolores Abernathy found that the seating was ready and the espresso machine heated up and pulled properly through a full cycle.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy found that the seating was ready and the espresso machine heated up and pulled properly through a full cycle.",
+    "poignancy": 2,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "found",
+      "that the seating was ready and the espresso machine heated up and pulled properly through a full cycle"
+    ],
+    "filling": null
+  },
+  "node_46": {
+    "node_count": 46,
+    "type_count": 35,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:04:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "preparing",
+    "object": "cafe",
+    "description": "Dolores Abernathy is working as a barista at Hobbs Cafe and preparing the cafe for customers (unlocking the cafe door and turning on the lights)",
+    "original_description": "Dolores Abernathy is working as a barista at Hobbs Cafe and preparing the cafe for customers (unlocking the cafe door and turning on the lights)",
+    "embedding_key": "Dolores Abernathy is working as a barista at Hobbs Cafe and preparing the cafe for customers (unlocking the cafe door and turning on the lights)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "cafe"
+    ],
+    "filling": null
+  },
+  "node_47": {
+    "node_count": 47,
+    "type_count": 36,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:05:00",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "occupied",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_48": {
+    "node_count": 48,
+    "type_count": 37,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:05:00",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "in use",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is in use",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is in use",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is in use",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_49": {
+    "node_count": 49,
+    "type_count": 38,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:06:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving and preparing",
+    "object": "customers and drinks",
+    "description": "Maeve Millay is serving customers and preparing drinks at Hobbs Cafe (checking the espresso machine and grinder)",
+    "original_description": "Maeve Millay is serving customers and preparing drinks at Hobbs Cafe (checking the espresso machine and grinder)",
+    "embedding_key": "Maeve Millay is serving customers and preparing drinks at Hobbs Cafe (checking the espresso machine and grinder)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "customers and drinks"
+    ],
+    "filling": null
+  },
+  "node_5": {
+    "node_count": 5,
+    "type_count": 3,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:02:40",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Maeve Millay is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (waking up and getting out of bed)",
+    "original_description": "Maeve Millay is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (waking up and getting out of bed)",
+    "embedding_key": "Maeve Millay is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (waking up and getting out of bed)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_50": {
+    "node_count": 50,
+    "type_count": 39,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:06:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "in use",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is in use",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is in use",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is in use",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_51": {
+    "node_count": 51,
+    "type_count": 40,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:09:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "preparing",
+    "object": "the cafe",
+    "description": "Dolores Abernathy is working as a barista at Hobbs Cafe and preparing the cafe for customers (checking the cafe for overnight issues)",
+    "original_description": "Dolores Abernathy is working as a barista at Hobbs Cafe and preparing the cafe for customers (checking the cafe for overnight issues)",
+    "embedding_key": "Dolores Abernathy is working as a barista at Hobbs Cafe and preparing the cafe for customers (checking the cafe for overnight issues)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "the cafe"
+    ],
+    "filling": null
+  },
+  "node_52": {
+    "node_count": 52,
+    "type_count": 41,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:09:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "preparing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "poignancy": 1,
+    "valence": 1,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_53": {
+    "node_count": 53,
+    "type_count": 42,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:10:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "opening",
+    "object": "Hobbs Cafe",
+    "description": "Bernard Lowe is opening Hobbs Cafe and overseeing the baristas (unlocking the cafe entrance)",
+    "original_description": "Bernard Lowe is opening Hobbs Cafe and overseeing the baristas (unlocking the cafe entrance)",
+    "embedding_key": "Bernard Lowe is opening Hobbs Cafe and overseeing the baristas (unlocking the cafe entrance)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_54": {
+    "node_count": 54,
+    "type_count": 43,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:10:30",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is confirming the café is ready to open and preparing to serve customers",
+    "original_description": "Maeve Millay is confirming the café is ready to open and preparing to serve customers",
+    "embedding_key": "Maeve Millay is confirming the café is ready to open and preparing to serve customers",
+    "poignancy": 1,
+    "valence": 1,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_55": {
+    "node_count": 55,
+    "type_count": 44,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:10:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is confirming the café is ready to open and preparing to serve customers",
+    "original_description": "Bernard Lowe is confirming the café is ready to open and preparing to serve customers",
+    "embedding_key": "Bernard Lowe is confirming the café is ready to open and preparing to serve customers",
+    "poignancy": 1,
+    "valence": 1,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_56": {
+    "node_count": 56,
+    "type_count": 45,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:12:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "customers",
+    "description": "Maeve Millay is serving customers and preparing drinks at Hobbs Cafe (restocking cups, lids, and coffee supplies)",
+    "original_description": "Maeve Millay is serving customers and preparing drinks at Hobbs Cafe (restocking cups, lids, and coffee supplies)",
+    "embedding_key": "Maeve Millay is serving customers and preparing drinks at Hobbs Cafe (restocking cups, lids, and coffee supplies)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "customers"
+    ],
+    "filling": null
+  },
+  "node_57": {
+    "node_count": 57,
+    "type_count": 46,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:12:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "occupied",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "poignancy": 1,
+    "valence": -1,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_58": {
+    "node_count": 58,
+    "type_count": 47,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:12:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "stocked and in use",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is stocked and in use",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is stocked and in use",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is stocked and in use",
+    "poignancy": 1,
+    "valence": 1,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_59": {
+    "node_count": 59,
+    "type_count": 48,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:14:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "preparing",
+    "object": "the cafe for customers",
+    "description": "Dolores Abernathy is working as a barista at Hobbs Cafe and preparing the cafe for customers (sanitizing the counters and work surfaces)",
+    "original_description": "Dolores Abernathy is working as a barista at Hobbs Cafe and preparing the cafe for customers (sanitizing the counters and work surfaces)",
+    "embedding_key": "Dolores Abernathy is working as a barista at Hobbs Cafe and preparing the cafe for customers (sanitizing the counters and work surfaces)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "the cafe for customers"
+    ],
+    "filling": null
+  },
+  "node_6": {
+    "node_count": 6,
+    "type_count": 4,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:05:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walking",
+    "object": "Hobbs Cafe",
+    "description": "Dolores Abernathy is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (using the bathroom)",
+    "original_description": "Dolores Abernathy is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (using the bathroom)",
+    "embedding_key": "Dolores Abernathy is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (using the bathroom)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_60": {
+    "node_count": 60,
+    "type_count": 49,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:14:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "sanitized",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being sanitized",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being sanitized",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being sanitized",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_61": {
+    "node_count": 61,
+    "type_count": 50,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:15:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "staffed",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is staffed",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is staffed",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is staffed",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_62": {
+    "node_count": 62,
+    "type_count": 51,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:15:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "opening",
+    "object": "Hobbs Cafe",
+    "description": "Bernard Lowe is opening Hobbs Cafe and overseeing the baristas (disarming the alarm and turning on the lights)",
+    "original_description": "Bernard Lowe is opening Hobbs Cafe and overseeing the baristas (disarming the alarm and turning on the lights)",
+    "embedding_key": "Bernard Lowe is opening Hobbs Cafe and overseeing the baristas (disarming the alarm and turning on the lights)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_63": {
+    "node_count": 63,
+    "type_count": 52,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:17:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "in use",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is in use",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is in use",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is in use",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_64": {
+    "node_count": 64,
+    "type_count": 53,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:19:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "ready",
+    "object": "service",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is ready for service",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is ready for service",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is ready for service",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "service"
+    ],
+    "filling": null
+  },
+  "node_65": {
+    "node_count": 65,
+    "type_count": 54,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:21:00",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "customers",
+    "description": "Maeve Millay is serving customers and preparing drinks at Hobbs Cafe (greeting customers and taking drink orders)",
+    "original_description": "Maeve Millay is serving customers and preparing drinks at Hobbs Cafe (greeting customers and taking drink orders)",
+    "embedding_key": "Maeve Millay is serving customers and preparing drinks at Hobbs Cafe (greeting customers and taking drink orders)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "customers"
+    ],
+    "filling": null
+  },
+  "node_66": {
+    "node_count": 66,
+    "type_count": 55,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:22:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "preparing",
+    "object": "drinks",
+    "description": "Maeve Millay is serving customers and preparing drinks at Hobbs Cafe (pulling espresso shots for ordered drinks)",
+    "original_description": "Maeve Millay is serving customers and preparing drinks at Hobbs Cafe (pulling espresso shots for ordered drinks)",
+    "embedding_key": "Maeve Millay is serving customers and preparing drinks at Hobbs Cafe (pulling espresso shots for ordered drinks)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "drinks"
+    ],
+    "filling": null
+  },
+  "node_67": {
+    "node_count": 67,
+    "type_count": 56,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:22:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "occupied",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is occupied",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_68": {
+    "node_count": 68,
+    "type_count": 3,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 08:22:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "making coffee together after checking the espresso machine’s pull",
+    "original_description": "making coffee together after checking the espresso machine’s pull",
+    "embedding_key": "making coffee together after checking the espresso machine’s pull",
+    "poignancy": 1,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Morning, Dolores. Machine warming up all right? I’m pulling the first shots now. Once it’s ready, I’ll pour us both a coffee."
+      ],
+      [
+        "Dolores Abernathy",
+        "Morning. It’s warming up nicely; I’ll give it another moment and check the pull. Thanks—coffee sounds lovely."
+      ],
+      [
+        "Maeve Millay",
+        "Sounds good. I’ll finish these shots, and once you’ve checked the pull, I’ll pour our coffees."
+      ],
+      [
+        "Dolores Abernathy",
+        "I’ll check the pull as soon as the machine finishes warming, then we can pour our coffees."
+      ],
+      [
+        "Maeve Millay",
+        "Perfect. I’ll finish these shots while it warms—just give me the nod once you’ve checked the pull, and I’ll pour our coffees."
+      ],
+      [
+        "Dolores Abernathy",
+        "The machine’s warmed up now. I’ve checked the pull—it looks good. There’s your nod."
+      ],
+      [
+        "Maeve Millay",
+        "Thanks. I’ll pour us both a coffee now—here you are."
+      ]
+    ]
+  },
+  "node_69": {
+    "node_count": 69,
+    "type_count": 57,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:22:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is making coffee together after checking the espresso machine’s pull",
+    "original_description": "Dolores Abernathy is making coffee together after checking the espresso machine’s pull",
+    "embedding_key": "Dolores Abernathy is making coffee together after checking the espresso machine’s pull",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_68"
+    ]
+  },
+  "node_7": {
+    "node_count": 7,
+    "type_count": 5,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:07:50",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:toaster",
+    "predicate": "toasting",
+    "object": "bread",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is toasting bread",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:toaster is toasting bread",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:toaster is toasting bread",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "toaster",
+      "bread"
+    ],
+    "filling": null
+  },
+  "node_70": {
+    "node_count": 70,
+    "type_count": 58,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:22:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is making coffee together after checking the espresso machine’s pull",
+    "original_description": "Maeve Millay is making coffee together after checking the espresso machine’s pull",
+    "embedding_key": "Maeve Millay is making coffee together after checking the espresso machine’s pull",
+    "poignancy": 1,
+    "valence": 1,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_71": {
+    "node_count": 71,
+    "type_count": 7,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:23:50",
+    "expiration": "2023-03-15 08:23:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "checked",
+    "object": "coffee machine’s pull",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy does not need to remember any specific future plans from this conversation; she checked the coffee machine’s pull, and Maeve poured them both coffee.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy does not need to remember any specific future plans from this conversation; she checked the coffee machine’s pull, and Maeve poured them both coffee.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy does not need to remember any specific future plans from this conversation; she checked the coffee machine’s pull, and Maeve poured them both coffee.",
+    "poignancy": 1,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "checked",
+      "coffee machine’s pull"
+    ],
+    "filling": null
+  },
+  "node_72": {
+    "node_count": 72,
+    "type_count": 8,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:23:50",
+    "expiration": "2023-03-15 08:23:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "checked",
+    "object": "the coffee machine’s pull",
+    "description": "Dolores Abernathy Dolores Abernathy checked the coffee machine’s pull after it warmed up and found that it looked good.",
+    "original_description": "Dolores Abernathy Dolores Abernathy checked the coffee machine’s pull after it warmed up and found that it looked good.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy checked the coffee machine’s pull after it warmed up and found that it looked good.",
+    "poignancy": 2,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "checked",
+      "the coffee machine’s pull"
+    ],
+    "filling": null
+  },
+  "node_73": {
+    "node_count": 73,
+    "type_count": 59,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:24:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "preparing",
+    "object": "the cafe for customers",
+    "description": "Dolores Abernathy is working as a barista at Hobbs Cafe and preparing the cafe for customers (checking the grinder and adjusting its settings)",
+    "original_description": "Dolores Abernathy is working as a barista at Hobbs Cafe and preparing the cafe for customers (checking the grinder and adjusting its settings)",
+    "embedding_key": "Dolores Abernathy is working as a barista at Hobbs Cafe and preparing the cafe for customers (checking the grinder and adjusting its settings)",
+    "poignancy": 1,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "the cafe for customers"
+    ],
+    "filling": null
+  },
+  "node_74": {
+    "node_count": 74,
+    "type_count": 60,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:26:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "opening",
+    "object": "Hobbs Cafe",
+    "description": "Bernard Lowe is opening Hobbs Cafe and overseeing the baristas (checking the espresso machine and other equipment)",
+    "original_description": "Bernard Lowe is opening Hobbs Cafe and overseeing the baristas (checking the espresso machine and other equipment)",
+    "embedding_key": "Bernard Lowe is opening Hobbs Cafe and overseeing the baristas (checking the espresso machine and other equipment)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_75": {
+    "node_count": 75,
+    "type_count": 61,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:26:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "in use",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is in use",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is in use",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is in use",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_76": {
+    "node_count": 76,
+    "type_count": 62,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:26:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "waiting to start",
+    "object": "checking the espresso machine and other equipment",
+    "description": "Bernard Lowe is waiting to start checking the espresso machine and other equipment",
+    "original_description": "Bernard Lowe is waiting to start checking the espresso machine and other equipment",
+    "embedding_key": "Bernard Lowe is waiting to start checking the espresso machine and other equipment",
+    "poignancy": 1,
+    "valence": -1,
+    "keywords": [
+      "bernard lowe",
+      "checking the espresso machine and other equipment"
+    ],
+    "filling": null
+  },
+  "node_77": {
+    "node_count": 77,
+    "type_count": 63,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:27:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "being stocked",
+    "object": "cups and supplies",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being stocked with cups and supplies",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being stocked with cups and supplies",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being stocked with cups and supplies",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "cups and supplies"
+    ],
+    "filling": null
+  },
+  "node_78": {
+    "node_count": 78,
+    "type_count": 64,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:27:50",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "preparing",
+    "object": "drinks",
+    "description": "Maeve Millay is serving customers and preparing drinks at Hobbs Cafe (steaming milk and assembling drinks)",
+    "original_description": "Maeve Millay is serving customers and preparing drinks at Hobbs Cafe (steaming milk and assembling drinks)",
+    "embedding_key": "Maeve Millay is serving customers and preparing drinks at Hobbs Cafe (steaming milk and assembling drinks)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "drinks"
+    ],
+    "filling": null
+  },
+  "node_79": {
+    "node_count": 79,
+    "type_count": 65,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:29:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "brewing",
+    "object": "the first batch of coffee",
+    "description": "Dolores Abernathy is working as a barista at Hobbs Cafe and preparing the cafe for customers (brewing the first batch of coffee)",
+    "original_description": "Dolores Abernathy is working as a barista at Hobbs Cafe and preparing the cafe for customers (brewing the first batch of coffee)",
+    "embedding_key": "Dolores Abernathy is working as a barista at Hobbs Cafe and preparing the cafe for customers (brewing the first batch of coffee)",
+    "poignancy": 1,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "the first batch of coffee"
+    ],
+    "filling": null
+  },
+  "node_8": {
+    "node_count": 8,
+    "type_count": 6,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:10:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walking to",
+    "object": "Hobbs Cafe",
+    "description": "Dolores Abernathy is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (washing face and brushing teeth)",
+    "original_description": "Dolores Abernathy is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (washing face and brushing teeth)",
+    "embedding_key": "Dolores Abernathy is waking up, getting ready, having breakfast, and walking to Hobbs Cafe (washing face and brushing teeth)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_80": {
+    "node_count": 80,
+    "type_count": 4,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 08:29:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "overseeing the morning café preparations and final checks before opening",
+    "original_description": "overseeing the morning café preparations and final checks before opening",
+    "embedding_key": "overseeing the morning café preparations and final checks before opening",
+    "poignancy": 1,
+    "valence": -1,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      [
+        "Bernard Lowe",
+        "The first batch is underway, then? Keep an eye on the brew and tell me immediately if the espresso machine or grinder gives you any trouble. We open at eight; I expect everything ready before then."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Bernard. The first batch is underway, and I’ll keep an eye on the brew and let you know right away if the machine or grinder gives me any trouble."
+      ],
+      [
+        "Bernard Lowe",
+        "Good. Once the brew is ready, check the seating and counter supplies one last time. I want everything in order before we unlock the doors."
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, Bernard. I’ll check the seating and counter supplies as soon as the brew is ready, and make sure everything’s in order before the doors are unlocked."
+      ],
+      [
+        "Bernard Lowe",
+        "All right. I’ll finish stocking the stations. Let me know as soon as the brew is ready and you’ve completed the final checks."
+      ],
+      [
+        "Dolores Abernathy",
+        "Understood, Bernard. I’ll keep watch on the brew, then check the seating and supplies and let you know as soon as everything’s ready."
+      ],
+      [
+        "Bernard Lowe",
+        "Good. I’ll be nearby finishing the stations. Come find me as soon as the brew is ready and you’ve completed the checks."
+      ]
+    ]
+  },
+  "node_81": {
+    "node_count": 81,
+    "type_count": 66,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:29:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is overseeing the morning café preparations and final checks before opening",
+    "original_description": "Dolores Abernathy is overseeing the morning café preparations and final checks before opening",
+    "embedding_key": "Dolores Abernathy is overseeing the morning café preparations and final checks before opening",
+    "poignancy": 1,
+    "valence": 1,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      "node_80"
+    ]
+  },
+  "node_82": {
+    "node_count": 82,
+    "type_count": 67,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:29:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is overseeing the morning café preparations and final checks before opening",
+    "original_description": "Bernard Lowe is overseeing the morning café preparations and final checks before opening",
+    "embedding_key": "Bernard Lowe is overseeing the morning café preparations and final checks before opening",
+    "poignancy": 1,
+    "valence": -1,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_9": {
+    "node_count": 9,
+    "type_count": 7,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:10:10",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+    "predicate": "in use",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is in use",
+    "original_description": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is in use",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:kitchen:kitchen sink is in use",
+    "poignancy": 1,
+    "valence": -1,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        81,
+        14
+      ],
+      "pronunciato": "🚿🚶",
+      "description": "getting up, washing, dressing, and walking to Hobbs Cafe (drying off) @ the Ville:Bernard Lowe's apartment:bathroom:shower",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        123,
+        49
+      ],
+      "pronunciato": "💬",
+      "description": "having breakfast together after preparing toast and coffee @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Morning, Maeve. The toast should be ready in a minute—would you like a slice?"
+        ],
+        [
+          "Maeve Millay",
+          "Morning, Dolores. Yes, please—thank you. I’ll get the coffee started while it finishes."
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good. I’ll get the toast and plates."
+        ],
+        [
+          "Maeve Millay",
+          "Perfect, thanks. Coffee’s brewing—want a cup too?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, please—thank you. I’ll bring the plates over while the toast finishes."
+        ],
+        [
+          "Maeve Millay",
+          "Great, thanks. I’ll pour us both a cup once it’s ready."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thanks, Maeve. Let’s have breakfast while it’s hot."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        123,
+        49
+      ],
+      "pronunciato": "💬",
+      "description": "having breakfast together after preparing toast and coffee @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Morning, Maeve. The toast should be ready in a minute—would you like a slice?"
+        ],
+        [
+          "Maeve Millay",
+          "Morning, Dolores. Yes, please—thank you. I’ll get the coffee started while it finishes."
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good. I’ll get the toast and plates."
+        ],
+        [
+          "Maeve Millay",
+          "Perfect, thanks. Coffee’s brewing—want a cup too?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, please—thank you. I’ll bring the plates over while the toast finishes."
+        ],
+        [
+          "Maeve Millay",
+          "Great, thanks. I’ll pour us both a cup once it’s ready."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thanks, Maeve. Let’s have breakfast while it’s hot."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:21:10"
+  }
+}

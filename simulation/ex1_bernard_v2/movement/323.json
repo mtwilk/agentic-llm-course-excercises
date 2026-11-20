@@ -1,0 +1,47 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        82,
+        16
+      ],
+      "pronunciato": "🌅🧽",
+      "description": "waking up and completing his morning routine (washing breakfast dishes) @ the Ville:Bernard Lowe's apartment:bathroom:bathroom sink",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        72,
+        25
+      ],
+      "pronunciato": "🍳🚶",
+      "description": "waking up, having breakfast, and walking to Hobbs Cafe (walking to Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        76,
+        32
+      ],
+      "pronunciato": "💬",
+      "description": "getting ready to head to the cafe together @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Morning, Dolores. Ready to head in? We’ve got plenty of time to get to the cafe before eight."
+        ],
+        [
+          "Dolores Abernathy",
+          "Morning, Maeve. Yes, I’ve got my things—let’s head in together."
+        ],
+        [
+          "Maeve Millay",
+          "Great, let’s get going. We should make it to the cafe with time to spare."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:52:50"
+  }
+}

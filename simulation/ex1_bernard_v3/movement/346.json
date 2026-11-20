@@ -1,0 +1,60 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating preparations for the café opening @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard. Dolores and I are on our way to the cafe now. We’ll be ready to get things set up when we arrive."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Have Dolores get the counter set up, and make sure it’s free of crumbs. I’ll check that the machines are ready before we open. Don’t keep me waiting."
+        ],
+        [
+          "Maeve Millay",
+          "Understood. Dolores will handle the counter, and I’ll make sure it’s crumb-free. We’ll be there shortly."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciato": "🍳🚶",
+      "description": "waking up, getting ready, having breakfast, and walking to Hobbs Cafe (walking to Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        76,
+        30
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating preparations for the café opening @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard. Dolores and I are on our way to the cafe now. We’ll be ready to get things set up when we arrive."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Have Dolores get the counter set up, and make sure it’s free of crumbs. I’ll check that the machines are ready before we open. Don’t keep me waiting."
+        ],
+        [
+          "Maeve Millay",
+          "Understood. Dolores will handle the counter, and I’ll make sure it’s crumb-free. We’ll be there shortly."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:56:40"
+  }
+}
